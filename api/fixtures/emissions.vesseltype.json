@@ -1,0 +1,102 @@
+[
+{
+    "model": "emissions.vesseltype",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-07-18T11:41:17.806Z",
+        "updated_at": "2022-10-10T14:33:05.589Z",
+        "tenant": 1,
+        "type": "Anchor handling tug supply vessel (AHTS)",
+        "fuel_type": "Fuel type",
+        "fuel_density": 1.0,
+        "co2_per_fuel": 2.0,
+        "nox_per_fuel": 3.0,
+        "co2_tax": 4.0,
+        "nox_tax": 5.0,
+        "fuel_cost": 6.0,
+        "fuel_consumption_summer": 4.9,
+        "fuel_consumption_winter": 5.5,
+        "deleted": false
+    }
+},
+{
+    "model": "emissions.vesseltype",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-07-18T11:41:17.807Z",
+        "updated_at": "2022-10-10T14:33:05.591Z",
+        "tenant": 1,
+        "type": "Platform supply vessel (PSV)",
+        "fuel_type": "Fuel type",
+        "fuel_density": 7.0,
+        "co2_per_fuel": 6.0,
+        "nox_per_fuel": 5.0,
+        "co2_tax": 4.0,
+        "nox_tax": 3.0,
+        "fuel_cost": 2.0,
+        "fuel_consumption_summer": 4.8,
+        "fuel_consumption_winter": 6.4,
+        "deleted": false
+    }
+},
+{
+    "model": "emissions.vesseltype",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-07-18T11:41:17.807Z",
+        "updated_at": "2022-10-10T14:33:05.593Z",
+        "tenant": 1,
+        "type": "Stand by vessel (STBY)",
+        "fuel_type": "Fuel type",
+        "fuel_density": 5.0,
+        "co2_per_fuel": 10.0,
+        "nox_per_fuel": 15.0,
+        "co2_tax": 20.0,
+        "nox_tax": 25.0,
+        "fuel_cost": 30.0,
+        "fuel_consumption_summer": 4.9,
+        "fuel_consumption_winter": 5.8,
+        "deleted": false
+    }
+},
+{
+    "model": "emissions.vesseltype",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-07-18T11:41:17.808Z",
+        "updated_at": "2022-10-10T14:33:05.594Z",
+        "tenant": 1,
+        "type": "Multi purpose supply vessels (MPSV)",
+        "fuel_type": "Fuel type",
+        "fuel_density": 2.0,
+        "co2_per_fuel": 4.0,
+        "nox_per_fuel": 6.0,
+        "co2_tax": 8.0,
+        "nox_tax": 10.0,
+        "fuel_cost": 12.0,
+        "fuel_consumption_summer": 6.5,
+        "fuel_consumption_winter": 8.3,
+        "deleted": false
+    }
+},
+{
+    "model": "emissions.vesseltype",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-07-18T11:41:17.808Z",
+        "updated_at": "2022-10-10T14:33:05.596Z",
+        "tenant": 1,
+        "type": "Emergency response and rescue vessel (ERRV)",
+        "fuel_type": "Fuel type",
+        "fuel_density": 12.0,
+        "co2_per_fuel": 10.0,
+        "nox_per_fuel": 10.0,
+        "co2_tax": 8.0,
+        "nox_tax": 6.0,
+        "fuel_cost": 4.0,
+        "fuel_consumption_summer": 5.3,
+        "fuel_consumption_winter": 5.4,
+        "deleted": false
+    }
+}
+]

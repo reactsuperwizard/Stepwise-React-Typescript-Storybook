@@ -1,0 +1,110 @@
+[
+{
+    "model": "emissions.custommode",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.153Z",
+        "updated_at": "2022-09-13T07:04:00.153Z",
+        "asset": 1,
+        "mode": 1,
+        "name": "Transit",
+        "description": "Transit mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.154Z",
+        "updated_at": "2022-11-14T12:18:34.449Z",
+        "asset": 1,
+        "mode": null,
+        "name": "Poos Moor ATA",
+        "description": "Poos Moor ATA mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.154Z",
+        "updated_at": "2022-11-14T12:18:34.475Z",
+        "asset": 1,
+        "mode": null,
+        "name": "DP",
+        "description": "DP mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.154Z",
+        "updated_at": "2022-09-13T07:04:00.154Z",
+        "asset": 1,
+        "mode": 4,
+        "name": "Fixed",
+        "description": "Fixed mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.428Z",
+        "updated_at": "2022-09-13T07:04:00.428Z",
+        "asset": 2,
+        "mode": 1,
+        "name": "Transit",
+        "description": "Transit mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.428Z",
+        "updated_at": "2022-11-14T12:18:34.474Z",
+        "asset": 2,
+        "mode": null,
+        "name": "Poos Moor ATA",
+        "description": "Poos Moor ATA mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.428Z",
+        "updated_at": "2022-11-14T12:18:34.476Z",
+        "asset": 2,
+        "mode": null,
+        "name": "DP",
+        "description": "DP mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 8,
+    "fields": {
+        "created_at": "2022-09-13T07:04:00.428Z",
+        "updated_at": "2022-09-13T07:04:00.428Z",
+        "asset": 2,
+        "mode": 4,
+        "name": "Fixed",
+        "description": "Fixed mode"
+    }
+},
+{
+    "model": "emissions.custommode",
+    "pk": 9,
+    "fields": {
+        "created_at": "2022-10-26T12:35:15.233Z",
+        "updated_at": "2022-10-26T12:35:15.233Z",
+        "asset": 1,
+        "mode": null,
+        "name": "Custom mode",
+        "description": "Custom mode description"
+    }
+}
+]

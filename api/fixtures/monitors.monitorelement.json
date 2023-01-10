@@ -1,0 +1,47 @@
+[
+{
+    "model": "monitors.monitorelement",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-03-18T13:26:38.535Z",
+        "updated_at": "2022-08-05T12:20:39.387Z",
+        "monitor": 1,
+        "name": "Power Load",
+        "description": "Realtime power load baseline 2020 against 2025 forecast",
+        "value_unit": "MW",
+        "value_title": "Energy (MW)",
+        "draft": false,
+        "monitor_function": 3
+    }
+},
+{
+    "model": "monitors.monitorelement",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-03-18T13:27:00.344Z",
+        "updated_at": "2022-08-05T12:21:33.621Z",
+        "monitor": 1,
+        "name": "Range 3 Load",
+        "description": "Cumulative range 3 load over time",
+        "value_unit": "MW",
+        "value_title": "Energy (MW)",
+        "draft": false,
+        "monitor_function": 2
+    }
+},
+{
+    "model": "monitors.monitorelement",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-05-23T14:03:14.579Z",
+        "updated_at": "2022-08-05T09:16:12.648Z",
+        "monitor": 1,
+        "name": "Draft element",
+        "description": "Draft monitor element description",
+        "value_unit": "MW",
+        "value_title": "Energy (MW)",
+        "draft": true,
+        "monitor_function": 1
+    }
+}
+]

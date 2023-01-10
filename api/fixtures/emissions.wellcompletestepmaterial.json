@@ -1,0 +1,122 @@
+[
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 1,
+    "fields": {
+        "material_type": 1,
+        "quantity": 20.0,
+        "quota": false,
+        "step": 1
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 2,
+    "fields": {
+        "material_type": 2,
+        "quantity": 12.25,
+        "quota": false,
+        "step": 1
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 3,
+    "fields": {
+        "material_type": 1,
+        "quantity": 15.0,
+        "quota": false,
+        "step": 2
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 4,
+    "fields": {
+        "material_type": 2,
+        "quantity": 10.0,
+        "quota": false,
+        "step": 2
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 5,
+    "fields": {
+        "material_type": 1,
+        "quantity": 50.0,
+        "quota": false,
+        "step": 3
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 6,
+    "fields": {
+        "material_type": 2,
+        "quantity": 5.0,
+        "quota": false,
+        "step": 3
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 7,
+    "fields": {
+        "material_type": 1,
+        "quantity": 40.0,
+        "quota": false,
+        "step": 4
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 8,
+    "fields": {
+        "material_type": 2,
+        "quantity": 8.0,
+        "quota": false,
+        "step": 4
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 9,
+    "fields": {
+        "material_type": 1,
+        "quantity": 1.0,
+        "quota": false,
+        "step": 5
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 10,
+    "fields": {
+        "material_type": 2,
+        "quantity": 1.0,
+        "quota": false,
+        "step": 5
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 11,
+    "fields": {
+        "material_type": 1,
+        "quantity": 10.0,
+        "quota": false,
+        "step": 6
+    }
+},
+{
+    "model": "emissions.wellcompletestepmaterial",
+    "pk": 12,
+    "fields": {
+        "material_type": 2,
+        "quantity": 4.0,
+        "quota": false,
+        "step": 6
+    }
+}
+]

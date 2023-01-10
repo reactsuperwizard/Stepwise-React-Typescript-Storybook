@@ -1,0 +1,152 @@
+{
+    "version": 1,
+    "interactions": [
+        {
+            "request": {
+                "method": "POST",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/token",
+                "body": "{\"Username\": \"\", \"Password\": \"\"}",
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.0"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Content-Length": [
+                        "55"
+                    ],
+                    "Content-Type": [
+                        "application/json"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 200,
+                    "message": "OK"
+                },
+                "headers": {
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "Content-Type": [
+                        "application/json; charset=utf-8"
+                    ],
+                    "Date": [
+                        "Mon, 04 Jul 2022 14:32:52 GMT"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "Content-Length": [
+                        "165"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ]
+                },
+                "body": {
+                    "string": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTY5NDY5NzIsImlzcyI6ImxvY2FsaG9zdCIsImF1ZCI6ImxvY2FsaG9zdCJ9.XHGASFicW5_UA_ldurK35fb65aMXf9i_E6O-ZeYwUEU\"}"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/Vessels('OSV1')/Tags",
+                "body": null,
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.0"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Authorization": [
+                        "REDACTED"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 200,
+                    "message": "OK"
+                },
+                "headers": {
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "Content-Type": [
+                        "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8"
+                    ],
+                    "Date": [
+                        "Mon, 04 Jul 2022 14:32:52 GMT"
+                    ],
+                    "X-Aggregate-Function": [
+                        "Linear Interpolation"
+                    ],
+                    "X-From-Datatime": [
+                        "07/04/2022 14:22:52"
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "Content-Length": [
+                        "2957"
+                    ],
+                    "X-Interval-Data": [
+                        "1 minutes"
+                    ],
+                    "OData-Version": [
+                        "4.0"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-Vessel": [
+                        "OSV1"
+                    ],
+                    "X-To-Datatime": [
+                        "07/04/2022 14:32:52"
+                    ]
+                },
+                "body": {
+                    "string": "{\"@odata.context\":\"https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/$metadata#Vessels('OSV1')/Tags\",\"value\":[{\"Name\":\"Booltest2\",\"Description\":\"\",\"EngUnit\":null,\"DataType\":\"Object\",\"DataReference\":\"booltest2\",\"OldestValueDate\":null},{\"Name\":\"Power_DGx_Capacity\",\"Description\":\"\",\"EngUnit\":\"kW\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_Capacity\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_Load_Calc_percent\",\"Description\":\"\",\"EngUnit\":\"%\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_Load_Calc_percent\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_Load_kW\",\"Description\":\"\",\"EngUnit\":\"kW\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_Load_kW\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_Load_MonthlyAverage_percent\",\"Description\":\"\",\"EngUnit\":\"%\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_Load_MonthlyAverage_percent\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_LoadRangeFour\",\"Description\":\"\",\"EngUnit\":null,\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_LoadRangeFour\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_LoadRangeOne\",\"Description\":\"\",\"EngUnit\":null,\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_LoadRangeOne\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_LoadRangeThree\",\"Description\":\"\",\"EngUnit\":\"%\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_LoadRangeThree\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_LoadRangeTwo\",\"Description\":\"\",\"EngUnit\":null,\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_LoadRangeTwo\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_RunningHours_LoadRangeFour\",\"Description\":\"\",\"EngUnit\":\"h\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_RunningHours_LoadRangeFour\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_RunningHours_LoadRangeOne\",\"Description\":\"\",\"EngUnit\":\"h\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_RunningHours_LoadRangeOne\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_RunningHours_LoadRangeThree\",\"Description\":\"\",\"EngUnit\":\"h\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_RunningHours_LoadRangeThree\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_RunningHours_LoadRangeTwo\",\"Description\":\"\",\"EngUnit\":\"h\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_RunningHours_LoadRangeTwo\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"},{\"Name\":\"Power_DGx_RunningHours_Monthly\",\"Description\":\"\",\"EngUnit\":\"h\",\"DataType\":\"Double\",\"DataReference\":\"OSV1.DG1_Utilization_Power_DGx_RunningHours_Monthly\",\"OldestValueDate\":\"2020-03-27T13:16:48.4210662Z\"}]}"
+                }
+            }
+        }
+    ]
+}

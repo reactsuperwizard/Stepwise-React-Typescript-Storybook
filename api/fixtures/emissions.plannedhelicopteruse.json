@@ -1,0 +1,30 @@
+[
+{
+    "model": "emissions.plannedhelicopteruse",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-07-18T12:48:26.928Z",
+        "updated_at": "2022-12-05T09:43:55.669Z",
+        "well_planner": 1,
+        "helicopter_type": 1,
+        "trips": 4,
+        "trip_duration": 90,
+        "exposure_against_current_well": 100.0,
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedhelicopteruse",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-08-11T07:09:28.680Z",
+        "updated_at": "2022-12-05T09:44:03.588Z",
+        "well_planner": 2,
+        "helicopter_type": 1,
+        "trips": 10,
+        "trip_duration": 100,
+        "exposure_against_current_well": 100.0,
+        "quota_obligation": 0.0
+    }
+}
+]

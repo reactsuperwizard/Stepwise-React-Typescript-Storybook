@@ -1,0 +1,440 @@
+[
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 1,
+    "fields": {
+        "order": 0,
+        "created_at": "2022-07-18T12:48:26.932Z",
+        "updated_at": "2022-12-06T09:32:58.030Z",
+        "duration": 9.5,
+        "phase": 1,
+        "mode": 2,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": 254.0,
+        "external_energy_supply_enabled": true,
+        "external_energy_supply_quota": false,
+        "well_planner": 1,
+        "improved_duration": 8.44265,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 2,
+    "fields": {
+        "order": 1,
+        "created_at": "2022-07-18T12:48:26.933Z",
+        "updated_at": "2022-12-06T09:32:58.032Z",
+        "duration": 7.5,
+        "phase": 2,
+        "mode": 2,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": true,
+        "external_energy_supply_quota": false,
+        "well_planner": 1,
+        "improved_duration": 7.5,
+        "emission_reduction_initiatives": []
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 3,
+    "fields": {
+        "order": 2,
+        "created_at": "2022-07-18T12:48:26.933Z",
+        "updated_at": "2022-09-13T07:04:00.404Z",
+        "duration": 6.0,
+        "phase": 9,
+        "mode": 4,
+        "season": "WINTER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 1,
+        "improved_duration": 6.0,
+        "emission_reduction_initiatives": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 4,
+    "fields": {
+        "order": 3,
+        "created_at": "2022-07-18T12:48:26.934Z",
+        "updated_at": "2022-09-13T07:04:00.404Z",
+        "duration": 12.0,
+        "phase": 5,
+        "mode": 2,
+        "season": "WINTER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 1,
+        "improved_duration": 10.6644,
+        "emission_reduction_initiatives": [
+            1,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 5,
+    "fields": {
+        "order": 4,
+        "created_at": "2022-07-18T12:48:26.935Z",
+        "updated_at": "2022-09-13T07:04:00.405Z",
+        "duration": 3.5,
+        "phase": 9,
+        "mode": 4,
+        "season": "WINTER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 1,
+        "improved_duration": 3.5,
+        "emission_reduction_initiatives": []
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 6,
+    "fields": {
+        "order": 5,
+        "created_at": "2022-07-18T12:48:26.935Z",
+        "updated_at": "2022-09-13T07:04:00.406Z",
+        "duration": 6.0,
+        "phase": 6,
+        "mode": 2,
+        "season": "WINTER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 1,
+        "improved_duration": 5.3322,
+        "emission_reduction_initiatives": [
+            1
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 7,
+    "fields": {
+        "order": 0,
+        "created_at": "2022-08-11T07:09:43.188Z",
+        "updated_at": "2022-12-12T07:54:33.817Z",
+        "duration": 8.5,
+        "phase": 11,
+        "mode": 1,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 2,
+        "improved_duration": 8.5,
+        "emission_reduction_initiatives": []
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 8,
+    "fields": {
+        "order": 1,
+        "created_at": "2022-08-11T07:10:02.510Z",
+        "updated_at": "2022-12-12T07:54:49.641Z",
+        "duration": 4.5,
+        "phase": 2,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 2.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 2,
+        "improved_duration": 3.3462,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 9,
+    "fields": {
+        "order": 2,
+        "created_at": "2022-08-11T07:10:24.290Z",
+        "updated_at": "2022-12-12T07:55:03.461Z",
+        "duration": 7.5,
+        "phase": 3,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 10.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": 254.0,
+        "external_energy_supply_enabled": true,
+        "external_energy_supply_quota": false,
+        "well_planner": 2,
+        "improved_duration": 5.577,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 10,
+    "fields": {
+        "order": 3,
+        "created_at": "2022-08-11T07:10:57.659Z",
+        "updated_at": "2022-09-13T07:04:00.411Z",
+        "duration": 5.0,
+        "phase": 4,
+        "mode": 2,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 2,
+        "improved_duration": 4.4435,
+        "emission_reduction_initiatives": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 11,
+    "fields": {
+        "order": 4,
+        "created_at": "2022-08-11T07:11:24.859Z",
+        "updated_at": "2022-12-12T07:55:34.033Z",
+        "duration": 4.5,
+        "phase": 5,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": 254.0,
+        "external_energy_supply_enabled": true,
+        "external_energy_supply_quota": false,
+        "well_planner": 2,
+        "improved_duration": 3.3462,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 12,
+    "fields": {
+        "order": 5,
+        "created_at": "2022-08-11T07:11:41.180Z",
+        "updated_at": "2022-12-12T07:55:12.755Z",
+        "duration": 7.5,
+        "phase": 6,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 2,
+        "improved_duration": 7.5,
+        "emission_reduction_initiatives": []
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 13,
+    "fields": {
+        "order": 0,
+        "created_at": "2022-12-12T07:56:22.491Z",
+        "updated_at": "2022-12-12T07:56:22.491Z",
+        "duration": 8.5,
+        "phase": 11,
+        "mode": 1,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 4,
+        "improved_duration": 8.5,
+        "emission_reduction_initiatives": []
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 14,
+    "fields": {
+        "order": 1,
+        "created_at": "2022-12-12T07:56:22.503Z",
+        "updated_at": "2022-12-12T07:56:22.503Z",
+        "duration": 4.5,
+        "phase": 2,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 2.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 4,
+        "improved_duration": 3.3462,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 15,
+    "fields": {
+        "order": 2,
+        "created_at": "2022-12-12T07:56:22.515Z",
+        "updated_at": "2022-12-12T07:56:22.515Z",
+        "duration": 7.5,
+        "phase": 3,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 10.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": 254.0,
+        "external_energy_supply_enabled": true,
+        "external_energy_supply_quota": false,
+        "well_planner": 4,
+        "improved_duration": 5.577,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 16,
+    "fields": {
+        "order": 3,
+        "created_at": "2022-12-12T07:56:22.529Z",
+        "updated_at": "2022-12-12T07:56:22.529Z",
+        "duration": 5.0,
+        "phase": 4,
+        "mode": 2,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 4,
+        "improved_duration": 4.4435,
+        "emission_reduction_initiatives": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 17,
+    "fields": {
+        "order": 4,
+        "created_at": "2022-12-12T07:56:22.540Z",
+        "updated_at": "2022-12-12T07:56:22.540Z",
+        "duration": 4.5,
+        "phase": 5,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": 254.0,
+        "external_energy_supply_enabled": true,
+        "external_energy_supply_quota": false,
+        "well_planner": 4,
+        "improved_duration": 3.3462,
+        "emission_reduction_initiatives": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "wells.wellplannerplannedstep",
+    "pk": 18,
+    "fields": {
+        "order": 5,
+        "created_at": "2022-12-12T07:56:22.557Z",
+        "updated_at": "2022-12-12T07:56:22.557Z",
+        "duration": 7.5,
+        "phase": 6,
+        "mode": 3,
+        "season": "SUMMER",
+        "well_section_length": 0.0,
+        "waiting_on_weather": 0.0,
+        "comment": "",
+        "carbon_capture_storage_system_quantity": null,
+        "external_energy_supply_enabled": false,
+        "external_energy_supply_quota": false,
+        "well_planner": 4,
+        "improved_duration": 7.5,
+        "emission_reduction_initiatives": []
+    }
+}
+]

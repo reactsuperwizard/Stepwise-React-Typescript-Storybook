@@ -1,0 +1,2852 @@
+[
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 11,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 24,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 37,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 2.5,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 40,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 41,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 42,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 43,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 44,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 45,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 46,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 47,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 48,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 49,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 50,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 51,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 52,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 53,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 54,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 55,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 56,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 57,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 58,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 59,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 60,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 61,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 62,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 63,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 64,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 65,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 66,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 67,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 68,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 69,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 73,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 74,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 75,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 76,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 77,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 78,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 79,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 80,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 81,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 82,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 83,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 84,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 85,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 86,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 87,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 88,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 89,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 90,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 91,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 92,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 93,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 94,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 95,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 96,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 97,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 98,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 99,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 100,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 101,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 102,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 103,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 104,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 105,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 106,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 107,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 108,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 112,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 113,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 114,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 115,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 15.5,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 116,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 25.64,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 117,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 118,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 119,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 120,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 121,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 122,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 123,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 124,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 125,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 126,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 127,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 128,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 129,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 130,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 131,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 132,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 133,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 134,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 135,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 136,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 137,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 138,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 139,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 140,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 141,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 142,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 143,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 144,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 145,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 146,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 147,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 151,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 152,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 153,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 154,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 13.33,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 155,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 16.24,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 156,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 157,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 158,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 159,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 160,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 161,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 162,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 163,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 164,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 165,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 167,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 168,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 169,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 171,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 172,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 173,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 174,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 175,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 176,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 177,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 178,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 179,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 180,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 181,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 182,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 183,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 185,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 186,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 187,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 189,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 190,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 191,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 192,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 193,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 194,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 195,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 196,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 197,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 198,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 199,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 200,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 201,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 203,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 204,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 205,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 207,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 208,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 209,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 210,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 211,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 212,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 213,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 214,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 1
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 215,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 216,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 217,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 218,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 2
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 219,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 220,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 221,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 222,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 3
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 223,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 3.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 224,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 225,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 226,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 227,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 228,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 229,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 230,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 231,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 232,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 233,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 234,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 235,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 236,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 237,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 238,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 239,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 240,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 241,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 242,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 243,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 244,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 245,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 246,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 247,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 248,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 249,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 250,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 251,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 252,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 253,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 254,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 255,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 256,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 257,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 258,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 259,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 260,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 261,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 262,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 263,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 264,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 265,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 266,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 267,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 268,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 269,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 270,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 271,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 272,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 273,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 274,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 275,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 276,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 277,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 278,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 279,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 4
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 280,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 15.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 281,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 282,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 283,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 284,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 285,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 286,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 287,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 288,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 289,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 290,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 291,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 292,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 293,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 294,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 295,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 296,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 297,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 298,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 299,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 300,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 301,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 302,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 303,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 304,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 305,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 306,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 307,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 308,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 309,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 310,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 311,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 312,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 313,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 314,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 315,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 316,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 317,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 318,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 319,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 320,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 321,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 322,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 323,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 324,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 325,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 326,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 327,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 328,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 329,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 330,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 331,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 332,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 333,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 334,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 335,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiativeinput",
+    "pk": 336,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "emission_reduction_initiative": 5
+    }
+}
+]

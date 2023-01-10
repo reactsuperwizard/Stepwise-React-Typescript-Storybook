@@ -1,0 +1,32 @@
+[
+{
+    "model": "rigs.customjackupsubareascore",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-06-15T11:06:24.801Z",
+        "updated_at": "2022-06-23T14:04:37.575Z",
+        "rig": 1,
+        "rig_status": 0.4927536231884058,
+        "topside_efficiency": 0.16797544134368486,
+        "deck_efficiency": 0.06313041023673528,
+        "move_and_installation": 0.8950366151342556,
+        "capacities": 0.1680623900724984,
+        "co2": 0.6108006668390663
+    }
+},
+{
+    "model": "rigs.customjackupsubareascore",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-06-15T12:02:03.895Z",
+        "updated_at": "2022-06-15T12:09:57.589Z",
+        "rig": 2,
+        "rig_status": 0.10526315789473684,
+        "topside_efficiency": 0.06389238964801454,
+        "deck_efficiency": 0.02733949125801702,
+        "move_and_installation": 0.7333333333333333,
+        "capacities": 0.07349541650059785,
+        "co2": 0.26803996546194647
+    }
+}
+]

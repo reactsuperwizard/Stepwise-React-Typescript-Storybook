@@ -1,0 +1,74 @@
+version: "3"
+   
+services:
+  db-stage:
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=postgres
+    volumes:
+      - pgdata-stage:/var/lib/postgresql/data
+      - .:/code
+
+    stdin_open: true
+    tty: true
+
+  redis-stage:
+    image: redis:6.2.1
+    volumes:
+      - redis-stage-data:/data
+
+  api-stage: &api-stage
+    build: .
+    command: bash entrypoint/api.sh
+    env_file:
+      - .env
+    user: "${UID}:${GID}"
+    volumes:
+      - .:/code
+    ports:
+      - "8001:8000"
+    depends_on:
+      - db-stage
+    stdin_open: true
+    tty: true
+
+  celery-worker-stage:
+    <<: *api-stage
+    command: celery -A apps.app worker -l debug
+    ports: []
+
+  celery-beat-stage:
+    <<: *api-stage
+    command: celery -A apps.app beat -l debug
+    ports: []
+
+  elasticsearch-stage:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+    environment:
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - xpack.security.enabled=false
+      - discovery.type=single-node
+    volumes:
+      - elasticsearch-stage-data:/usr/share/elasticsearch/data
+    ports:
+      - "9201:9200"
+
+  flower-stage:
+      image: mher/flower
+      ports:
+        - 5556:5555
+      environment:
+        CELERY_BROKER_URL: $CELERY_BROKER_URL
+        CELERY_RESULT_BACKEND: $CELERY_RESULT_BACKEND
+        FLOWER_BASIC_AUTH: $FLOWER_USERNAME:$FLOWER_PASSWORD
+      depends_on:
+        - celery-worker-stage
+        - celery-beat-stage
+        - redis-stage
+
+volumes:
+  pgdata-stage:
+  redis-stage-data:
+  elasticsearch-stage-data:

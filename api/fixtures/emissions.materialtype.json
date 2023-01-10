@@ -1,0 +1,30 @@
+[
+    {
+        "model": "emissions.materialtype",
+        "pk": 1,
+        "fields": {
+            "created_at": "2022-10-28T07:21:21.471Z",
+            "updated_at": "2022-10-28T07:21:21.471Z",
+            "tenant": 1,
+            "deleted": false,
+            "category": "STEEL",
+            "type": "Steel type 1",
+            "unit": "cubic metre",
+            "co2": 1.84
+        }
+    },
+    {
+        "model": "emissions.materialtype",
+        "pk": 2,
+        "fields": {
+            "created_at": "2022-10-28T07:21:21.490Z",
+            "updated_at": "2022-10-28T07:21:21.490Z",
+            "tenant": 1,
+            "deleted": false,
+            "category": "CEMENT",
+            "type": "Cement type 1",
+            "unit": "tonne",
+            "co2": 0.82
+        }
+    }
+]

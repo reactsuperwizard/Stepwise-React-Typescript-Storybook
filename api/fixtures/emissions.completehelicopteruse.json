@@ -1,0 +1,17 @@
+[
+{
+    "model": "emissions.completehelicopteruse",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-08-10T11:03:44.766Z",
+        "updated_at": "2022-08-10T11:03:44.766Z",
+        "well_planner": 1,
+        "helicopter_type": 1,
+        "trips": 4,
+        "trip_duration": 90,
+        "exposure_against_current_well": 100.0,
+        "quota_obligation": 0.0,
+        "approved": true
+    }
+}
+]

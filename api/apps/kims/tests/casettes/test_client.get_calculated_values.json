@@ -1,0 +1,137 @@
+{
+    "version": 1,
+    "interactions": [
+        {
+            "request": {
+                "method": "POST",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/token",
+                "body": "{\"Username\": \"\", \"Password\": \"\"}",
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.1"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Content-Length": [
+                        "55"
+                    ],
+                    "Content-Type": [
+                        "application/json"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 200,
+                    "message": "OK"
+                },
+                "headers": {
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "Content-Length": [
+                        "165"
+                    ],
+                    "Date": [
+                        "Mon, 11 Jul 2022 14:19:07 GMT"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "Content-Type": [
+                        "application/json; charset=utf-8"
+                    ]
+                },
+                "body": {
+                    "string": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTc1NTA5NDcsImlzcyI6ImxvY2FsaG9zdCIsImF1ZCI6ImxvY2FsaG9zdCJ9.ZopyoqyTic7u1i4tvOPKK3vsPkCN7h-qNwpb6F_J7ps\"}"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/Vessels('OSV1')/Tags('Power_DGx_Load_kW')/CalculatedValues?method=Mean%2CAverage&from=2021-08-19T00%3A00%3A00Z&to=2021-08-19T01%3A00%3A00Z&interval=1h",
+                "body": null,
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.1"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Authorization": [
+                        "REDACTED"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 200,
+                    "message": "OK"
+                },
+                "headers": {
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "OData-Version": [
+                        "4.0"
+                    ],
+                    "Content-Length": [
+                        "324"
+                    ],
+                    "Date": [
+                        "Mon, 11 Jul 2022 14:19:09 GMT"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "Content-Type": [
+                        "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8"
+                    ]
+                },
+                "body": {
+                    "string": "{\"@odata.context\":\"https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/$metadata#Collection(KimsApi.Calculation)\",\"value\":[{\"Timestamp\":\"2021-08-19T00:00:00Z\",\"Statistics\":[{\"Type\":\"Mean\",\"Value\":223.598153495789,\"Quality\":\"Good\",\"QualityInfo\":\"\"},{\"Type\":\"Average\",\"Value\":223.079283210641,\"Quality\":\"Good\",\"QualityInfo\":\"\"}]}]}"
+                }
+            }
+        }
+    ]
+}

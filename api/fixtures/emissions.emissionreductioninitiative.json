@@ -1,0 +1,67 @@
+[
+{
+    "model": "emissions.emissionreductioninitiative",
+    "pk": 1,
+    "fields": {
+        "deleted": false,
+        "emission_management_plan": 1,
+        "name": "Productivity initiative",
+        "description": "Emp initiative 1 description",
+        "type": "PRODUCTIVITY",
+        "vendor": "Vendor",
+        "deployment_date": "2020-06-30"
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiative",
+    "pk": 2,
+    "fields": {
+        "deleted": false,
+        "emission_management_plan": 1,
+        "name": "Power Systems initiative",
+        "description": "Emp initiative 2 description",
+        "type": "POWER_SYSTEMS",
+        "vendor": "Vendor",
+        "deployment_date": "2020-06-30"
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiative",
+    "pk": 3,
+    "fields": {
+        "deleted": false,
+        "emission_management_plan": 1,
+        "name": "Baseloads initiative",
+        "description": "Emp initiative 3 description",
+        "type": "BASELOADS",
+        "vendor": "Vendor",
+        "deployment_date": "2020-06-30"
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiative",
+    "pk": 4,
+    "fields": {
+        "deleted": false,
+        "emission_management_plan": 1,
+        "name": "Baseload 2",
+        "description": "Baseload 2",
+        "type": "BASELOADS",
+        "vendor": "Vendor",
+        "deployment_date": "2018-12-12"
+    }
+},
+{
+    "model": "emissions.emissionreductioninitiative",
+    "pk": 5,
+    "fields": {
+        "deleted": false,
+        "emission_management_plan": 1,
+        "name": "Power Systems 2",
+        "description": "Power Systems 2",
+        "type": "POWER_SYSTEMS",
+        "vendor": "Vendor",
+        "deployment_date": "2018-12-11"
+    }
+}
+]

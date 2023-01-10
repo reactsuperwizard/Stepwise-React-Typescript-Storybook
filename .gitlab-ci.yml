@@ -1,0 +1,22 @@
+image: python:3.9
+
+stages:
+  - deploy
+
+deploydev:
+  stage: deploy
+  before_script:
+    - pip install fabric3
+  script:
+    - fab sit update
+  only:
+    - dev
+
+deploystage:
+  stage: deploy
+  before_script:
+    - pip install fabric3
+  script:
+    - fab stage update
+  only:
+    - stage

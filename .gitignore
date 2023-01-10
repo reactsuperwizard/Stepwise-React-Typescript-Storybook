@@ -1,0 +1,10 @@
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.env
+celerybeat-schedule
+.idea
+.venv
+api/media
+.DS_STORE/
+.vscode/

@@ -1,0 +1,32 @@
+[
+{
+    "model": "rigs.customsemisubareascore",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-06-23T12:04:01.768Z",
+        "updated_at": "2022-06-30T14:31:15.199Z",
+        "rig_status": 0.88,
+        "topside_efficiency": 1.2714932126696832,
+        "deck_efficiency": 1.3467584367595418,
+        "capacities": 1.1451410072732764,
+        "co2": 0.7654321114734038,
+        "rig": 1,
+        "wow": 0.8086120086889699
+    }
+},
+{
+    "model": "rigs.customsemisubareascore",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-06-30T14:32:12.821Z",
+        "updated_at": "2022-06-30T14:32:12.821Z",
+        "rig_status": 0.88,
+        "topside_efficiency": 0.4570135746606334,
+        "deck_efficiency": 1.2395978400226757,
+        "capacities": 1.0672885166113606,
+        "co2": 0.8839423083151837,
+        "rig": 2,
+        "wow": 0.7771796965062334
+    }
+}
+]

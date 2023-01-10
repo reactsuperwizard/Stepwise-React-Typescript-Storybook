@@ -1,0 +1,49 @@
+{% extends "admin/base_site.html" %}
+
+{% block content %}
+
+<div>
+    <b>Code:</b>
+    <pre>
+        <code class="language-html">{{ form.monitor_function_source.value|linebreaks }}</code>
+    </pre>
+</div>
+
+<div>
+    <div style="margin-bottom: 32px;">
+        <b>Test Result:</b>
+    </div>
+    <div>
+    {% if form.errors %}
+    {% for field in form %}
+        {% if field.errors %}
+            {{ field.label_tag }}
+            <div class="alert alert-danger"> {{ field.errors }}</div>
+        {% endif %}
+    {% endfor %}
+    </div>
+    {% elif form.monitor_function_test_result.rows %}
+    <div style="overflow-x:auto;padding-bottom: 16px;">
+        <table style="width:100%;">
+            <tr>
+                {% for column in form.monitor_function_test_result.columns %}
+                <th style="min-width: 100px;">{{ column }}</th>
+                {% endfor %}
+            </tr>
+            {% for row in form.monitor_function_test_result.rows %}
+            <tr>
+                {% for value in row %}
+                    <td>{{ value|default_if_none:"-" }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    {% else %}
+    <div>
+        No test result found. Vessel may not be synced.
+    </div>
+    {% endif %}
+</div>
+
+{% endblock content %}

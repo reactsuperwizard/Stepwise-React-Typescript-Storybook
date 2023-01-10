@@ -1,0 +1,183 @@
+from django.urls import path
+
+from apps.wells import apis
+
+app_name = 'wells'
+
+urlpatterns = [
+    path('wells/custom/', apis.CustomWellListApi.as_view(), name='custom_well_list'),
+    path('wells/custom/create/', apis.CreateCustomWellApi.as_view(), name='create_custom_well'),
+    path('wells/custom/<int:well_id>/update/', apis.UpdateCustomWellApi.as_view(), name='update_custom_well'),
+    path('wells/custom/<int:well_id>/', apis.CustomWellDetailsApi.as_view(), name='custom_well_details'),
+    path('wells/concept/', apis.ConceptWellListApi.as_view(), name='concept_well_list'),
+    path('wells/concept/<int:well_id>/', apis.ConceptWellDetailsApi.as_view(), name='concept_well_details'),
+    path(
+        'wells/custom/<int:well_id>/delete/',
+        apis.DeleteCustomWellApi.as_view(),
+        name='delete_custom_well',
+    ),
+]
+
+urlpatterns += [
+    path(
+        'wells/reference-material/',
+        apis.WellReferenceMaterialApi.as_view(),
+        name='wells_reference_material',
+    ),
+    path(
+        'wells/planners/',
+        apis.WellPlannerListApi.as_view(),
+        name='well_planner_list',
+    ),
+    path('wells/planners/<int:well_planner_id>/', apis.WellPlannerDetailsApi.as_view(), name='well_planner_details'),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/complete/',
+        apis.CompleteWellPlannerPlannedApi.as_view(),
+        name='complete_well_planner_planned',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/create/',
+        apis.CreateWellPlannerPlannedStepApi.as_view(),
+        name='create_well_planner_planned_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/<int:well_planner_planned_step_id>/update/',
+        apis.UpdateWellPlannerPlannedStepApi.as_view(),
+        name='update_well_planner_planned_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/<int:well_planner_planned_step_id>/delete/',
+        apis.DeleteWellPlannerPlannedStepApi.as_view(),
+        name='delete_well_planner_planned_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/<int:well_planner_planned_step_id>/duplicate/',
+        apis.DuplicateWellPlannerPlannedStepApi.as_view(),
+        name='duplicate_well_planner_planned_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/<int:well_planner_planned_step_id>/move/',
+        apis.MoveWellPlannerPlannedStepApi.as_view(),
+        name='move_well_planner_planned_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/<int:well_planner_planned_step_id>/co2/',
+        apis.WellPlannerPlannedStepCO2Api.as_view(),
+        name='well_planner_planned_step_co2',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/co2/',
+        apis.WellPlannerPlannedCo2Api.as_view(),
+        name='well_planner_planned_co2',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/co2/saved/',
+        apis.WellPlannerPlannedCo2SavedApi.as_view(),
+        name='well_planner_planned_co2_saved',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/summary/',
+        apis.WellPlannerPlannedSummaryApi.as_view(),
+        name='well_planner_planned_summary',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/create/',
+        apis.CreateWellPlannerCompleteStepApi.as_view(),
+        name='create_well_planner_complete_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/<int:well_planner_complete_step_id>/update/',
+        apis.UpdateWellPlannerCompleteStepApi.as_view(),
+        name='update_well_planner_complete_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/<int:well_planner_complete_step_id>/delete/',
+        apis.DeleteWellPlannerCompleteStepApi.as_view(),
+        name='delete_well_planner_complete_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/approve/',
+        apis.ApproveWellPlannerCompleteStepsApi.as_view(),
+        name='approve_well_planner_complete_steps',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/<int:well_planner_complete_step_id>/duplicate/',
+        apis.DuplicateWellPlannerCompleteStepApi.as_view(),
+        name='duplicate_well_planner_complete_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/<int:well_planner_complete_step_id>/move/',
+        apis.MoveWellPlannerCompleteStepApi.as_view(),
+        name='move_well_planner_complete_step',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/complete/',
+        apis.CompleteWellPlannerCompleteApi.as_view(),
+        name='complete_well_planner_complete',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/summary/',
+        apis.WellPlannerCompleteSummaryApi.as_view(),
+        name='well_planner_complete_summary',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/measured/co2/',
+        apis.WellPlannerMeasuredCo2Api.as_view(),
+        name='well_planner_measured_co2',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/measured/wind-speed/',
+        apis.WellPlannerMeasuredWindSpeedApi.as_view(),
+        name='well_planner_measured_wind_speed',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/measured/air-temperature/',
+        apis.WellPlannerMeasuredAirTemperatureApi.as_view(),
+        name='well_planner_measured_air_temperature',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/measured/wave-heave/',
+        apis.WellPlannerMeasuredWaveHeaveApi.as_view(),
+        name='well_planner_measured_wave_heave',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/helicopter-uses/approve/',
+        apis.ApproveWellPlannerCompleteHelicopterUsesApi.as_view(),
+        name="approve_well_planner_complete_helicopter_uses",
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/vessel-uses/approve/',
+        apis.ApproveWellPlannerCompleteVesselUsesApi.as_view(),
+        name="approve_well_planner_complete_vessel_uses",
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/planned/steps/<int:well_planner_planned_step_id>/emp-initiatives/update/',
+        apis.UpdateWellPlannerPlannedStepEmissionReductionInitiativesApi.as_view(),
+        name='update_well_planner_planned_step_emission_reduction_initiatives',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/steps/<int:well_planner_complete_step_id>/emp-initiatives/update/',
+        apis.UpdateWellPlannerCompleteStepEmissionReductionInitiativesApi.as_view(),
+        name='update_well_planner_complete_step_emission_reduction_initiatives',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/complete/start-date/update/',
+        apis.UpdateWellPlannerActualStartDateApi.as_view(),
+        name='update_well_planner_actual_start_date',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/phases/',
+        apis.WellPlannerPhaseListApi.as_view(),
+        name='custom_well_planner_phase_list',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/modes/',
+        apis.WellPlannerModeListApi.as_view(),
+        name='well_planner_mode_list',
+    ),
+    path(
+        'wells/planners/<int:well_planner_id>/emission-reduction-initiatives/',
+        apis.WellPlannerEmissionReductionInitiativeListApi.as_view(),
+        name='well_planner_emission_reduction_initiative_list',
+    ),
+]

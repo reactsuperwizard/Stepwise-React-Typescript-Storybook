@@ -1,0 +1,107 @@
+[
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-07-18T12:48:26.929Z",
+        "updated_at": "2022-07-18T12:48:26.929Z",
+        "well_planner": 1,
+        "vessel_type": 1,
+        "duration": 5.0,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 10.0,
+        "season": "SUMMER",
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-07-18T12:48:26.930Z",
+        "updated_at": "2022-07-18T12:48:26.930Z",
+        "well_planner": 1,
+        "vessel_type": 2,
+        "duration": 10.0,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 10.0,
+        "season": "SUMMER",
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-07-18T12:48:26.930Z",
+        "updated_at": "2022-07-18T12:48:26.930Z",
+        "well_planner": 1,
+        "vessel_type": 3,
+        "duration": 15.0,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 10.0,
+        "season": "SUMMER",
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-07-18T12:48:26.931Z",
+        "updated_at": "2022-07-18T12:48:26.931Z",
+        "well_planner": 1,
+        "vessel_type": 4,
+        "duration": 30.0,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 10.0,
+        "season": "SUMMER",
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-07-18T12:48:26.931Z",
+        "updated_at": "2022-07-18T12:48:26.931Z",
+        "well_planner": 1,
+        "vessel_type": 5,
+        "duration": 10.0,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 10.0,
+        "season": "SUMMER",
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-09-08T11:24:22.210Z",
+        "updated_at": "2022-09-08T11:24:22.210Z",
+        "well_planner": 2,
+        "vessel_type": 1,
+        "duration": 3.5,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 6.0,
+        "season": "WINTER",
+        "quota_obligation": 0.0
+    }
+},
+{
+    "model": "emissions.plannedvesseluse",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-09-08T11:24:36.546Z",
+        "updated_at": "2022-09-08T11:25:21.533Z",
+        "well_planner": 2,
+        "vessel_type": 1,
+        "duration": 4.5,
+        "exposure_against_current_well": 100.0,
+        "waiting_on_weather": 5.5,
+        "season": "SUMMER",
+        "quota_obligation": 0.0
+    }
+}
+]

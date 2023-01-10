@@ -1,0 +1,158 @@
+[
+{
+    "model": "emissions.conceptmode",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.076Z",
+        "updated_at": "2022-11-18T10:52:33.550Z",
+        "tenant": 1,
+        "name": "Transit",
+        "description": "Transit phase",
+        "asset_types": "[\"JACKUP\", \"SEMI\", \"DRILLSHIP\", \"FIXED_PLATFORM\"]",
+        "transit": true
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.135Z",
+        "updated_at": "2022-10-05T21:21:59.135Z",
+        "tenant": 1,
+        "name": "Poos Moor ATA",
+        "description": "Poos Moor ATA mode",
+        "asset_types": "[\"SEMI\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.137Z",
+        "updated_at": "2022-10-05T21:21:59.137Z",
+        "tenant": 1,
+        "name": "DP",
+        "description": "DP mode",
+        "asset_types": "[\"SEMI\", \"DRILLSHIP\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.138Z",
+        "updated_at": "2022-10-05T21:21:59.138Z",
+        "tenant": 1,
+        "name": "Fixed",
+        "description": "Fixed mode",
+        "asset_types": "[\"JACKUP\", \"FIXED_PLATFORM\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.140Z",
+        "updated_at": "2022-11-18T10:52:33.552Z",
+        "tenant": 2,
+        "name": "Transit",
+        "description": "Transit phase",
+        "asset_types": "[\"JACKUP\", \"SEMI\", \"DRILLSHIP\", \"FIXED_PLATFORM\"]",
+        "transit": true
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.142Z",
+        "updated_at": "2022-10-05T21:21:59.142Z",
+        "tenant": 2,
+        "name": "Poos Moor ATA",
+        "description": "Poos Moor ATA mode",
+        "asset_types": "[\"SEMI\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.143Z",
+        "updated_at": "2022-10-05T21:21:59.143Z",
+        "tenant": 2,
+        "name": "DP",
+        "description": "DP mode",
+        "asset_types": "[\"SEMI\", \"DRILLSHIP\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 8,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.144Z",
+        "updated_at": "2022-10-05T21:21:59.144Z",
+        "tenant": 2,
+        "name": "Fixed",
+        "description": "Fixed mode",
+        "asset_types": "[\"JACKUP\", \"FIXED_PLATFORM\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 9,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.146Z",
+        "updated_at": "2022-11-18T10:52:33.554Z",
+        "tenant": 3,
+        "name": "Transit",
+        "description": "Transit phase",
+        "asset_types": "[\"JACKUP\", \"SEMI\", \"DRILLSHIP\", \"FIXED_PLATFORM\"]",
+        "transit": true
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 10,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.147Z",
+        "updated_at": "2022-10-05T21:21:59.147Z",
+        "tenant": 3,
+        "name": "Poos Moor ATA",
+        "description": "Poos Moor ATA mode",
+        "asset_types": "[\"SEMI\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 11,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.149Z",
+        "updated_at": "2022-10-05T21:21:59.149Z",
+        "tenant": 3,
+        "name": "DP",
+        "description": "DP mode",
+        "asset_types": "[\"SEMI\", \"DRILLSHIP\"]",
+        "transit": false
+    }
+},
+{
+    "model": "emissions.conceptmode",
+    "pk": 12,
+    "fields": {
+        "created_at": "2022-10-05T21:21:59.150Z",
+        "updated_at": "2022-10-05T21:21:59.150Z",
+        "tenant": 3,
+        "name": "Fixed",
+        "description": "Fixed mode",
+        "asset_types": "[\"JACKUP\", \"FIXED_PLATFORM\"]",
+        "transit": false
+    }
+}
+]

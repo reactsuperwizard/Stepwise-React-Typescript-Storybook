@@ -1,0 +1,137 @@
+{
+    "version": 1,
+    "interactions": [
+        {
+            "request": {
+                "method": "POST",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/token",
+                "body": "{\"Username\": \"\", \"Password\": \"\"}",
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.1"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Content-Length": [
+                        "55"
+                    ],
+                    "Content-Type": [
+                        "application/json"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 200,
+                    "message": "OK"
+                },
+                "headers": {
+                    "Date": [
+                        "Tue, 05 Jul 2022 13:11:31 GMT"
+                    ],
+                    "Content-Type": [
+                        "application/json; charset=utf-8"
+                    ],
+                    "Content-Length": [
+                        "165"
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ]
+                },
+                "body": {
+                    "string": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTcwMjg0OTEsImlzcyI6ImxvY2FsaG9zdCIsImF1ZCI6ImxvY2FsaG9zdCJ9.vEZbV6HYMbjP7w41NudaUAY-dSPQWxa6Cx8d5RfZWlQ\"}"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/Vessels('OSV1')/Tags('Power_Capacity')/CalculatedValues?method=mean&from=2021-08-19T00%3A00%3A00&to=2021-08-19T01%3A00%3A00&interval=1h",
+                "body": null,
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.1"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Authorization": [
+                        "REDACTED"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 400,
+                    "message": "Bad Request"
+                },
+                "headers": {
+                    "Date": [
+                        "Tue, 05 Jul 2022 13:11:34 GMT"
+                    ],
+                    "Content-Type": [
+                        "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8"
+                    ],
+                    "Content-Length": [
+                        "134"
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "OData-Version": [
+                        "4.0"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ]
+                },
+                "body": {
+                    "string": "{\"@odata.context\":\"https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/$metadata#Edm.String\",\"value\":\"Tag 'Power_Capacity' was not found!\"}"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+[
+{
+    "model": "tenants.tenantuserrelation",
+    "pk": 1,
+    "fields": {
+        "tenant": 1,
+        "user": 2,
+        "role": "ADMIN"
+    }
+},
+{
+    "model": "tenants.tenantuserrelation",
+    "pk": 2,
+    "fields": {
+        "tenant": 1,
+        "user": 3,
+        "role": "MEMBER"
+    }
+},
+{
+    "model": "tenants.tenantuserrelation",
+    "pk": 3,
+    "fields": {
+        "tenant": 2,
+        "user": 3,
+        "role": "ADMIN"
+    }
+},
+{
+    "model": "tenants.tenantuserrelation",
+    "pk": 4,
+    "fields": {
+        "tenant": 3,
+        "user": 2,
+        "role": "ADMIN"
+    }
+},
+{
+    "model": "tenants.tenantuserrelation",
+    "pk": 5,
+    "fields": {
+        "tenant": 3,
+        "user": 3,
+        "role": "ADMIN"
+    }
+},
+{
+    "model": "tenants.tenantuserrelation",
+    "pk": 6,
+    "fields": {
+        "tenant": 1,
+        "user": 6,
+        "role": "ADMIN"
+    }
+}
+]

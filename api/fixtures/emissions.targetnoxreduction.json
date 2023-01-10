@@ -1,0 +1,335 @@
+[
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 1,
+    "fields": {
+        "target": 10,
+        "emission_reduction_initiative": 2,
+        "value": 0.48164739999999995
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 2,
+    "fields": {
+        "target": 10,
+        "emission_reduction_initiative": 3,
+        "value": 0.30506839999999996
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 3,
+    "fields": {
+        "target": 11,
+        "emission_reduction_initiative": 2,
+        "value": 0.9632947999999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 4,
+    "fields": {
+        "target": 11,
+        "emission_reduction_initiative": 3,
+        "value": 0.6101367999999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 5,
+    "fields": {
+        "target": 12,
+        "emission_reduction_initiative": 2,
+        "value": 0.9632947999999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 6,
+    "fields": {
+        "target": 12,
+        "emission_reduction_initiative": 3,
+        "value": 0.6101367999999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 7,
+    "fields": {
+        "target": 13,
+        "emission_reduction_initiative": 2,
+        "value": 0.8151400597599999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 8,
+    "fields": {
+        "target": 13,
+        "emission_reduction_initiative": 3,
+        "value": 0.51629776016
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 9,
+    "fields": {
+        "target": 14,
+        "emission_reduction_initiative": 2,
+        "value": 0.17429969440000045
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 10,
+    "fields": {
+        "target": 14,
+        "emission_reduction_initiative": 3,
+        "value": 0.11039887040000028
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 11,
+    "fields": {
+        "target": 15,
+        "emission_reduction_initiative": 2,
+        "value": 1.133288
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 12,
+    "fields": {
+        "target": 15,
+        "emission_reduction_initiative": 3,
+        "value": 0.717808
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 13,
+    "fields": {
+        "target": 16,
+        "emission_reduction_initiative": 2,
+        "value": 1.133288
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 14,
+    "fields": {
+        "target": 16,
+        "emission_reduction_initiative": 3,
+        "value": 0.717808
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 15,
+    "fields": {
+        "target": 17,
+        "emission_reduction_initiative": 2,
+        "value": 1.133288
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 16,
+    "fields": {
+        "target": 17,
+        "emission_reduction_initiative": 3,
+        "value": 0.717808
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 17,
+    "fields": {
+        "target": 18,
+        "emission_reduction_initiative": 2,
+        "value": 1.133288
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 18,
+    "fields": {
+        "target": 18,
+        "emission_reduction_initiative": 3,
+        "value": 0.717808
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 19,
+    "fields": {
+        "target": 19,
+        "emission_reduction_initiative": 2,
+        "value": 1.133288
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 20,
+    "fields": {
+        "target": 19,
+        "emission_reduction_initiative": 3,
+        "value": 0.717808
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 21,
+    "fields": {
+        "target": 20,
+        "emission_reduction_initiative": 2,
+        "value": 0.47960748159999955
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 22,
+    "fields": {
+        "target": 20,
+        "emission_reduction_initiative": 3,
+        "value": 0.3037763455999997
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 23,
+    "fields": {
+        "target": 21,
+        "emission_reduction_initiative": 2,
+        "value": 0.3951656799999991
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 24,
+    "fields": {
+        "target": 22,
+        "emission_reduction_initiative": 2,
+        "value": 0.6851
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 25,
+    "fields": {
+        "target": 23,
+        "emission_reduction_initiative": 2,
+        "value": 0.6851
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 26,
+    "fields": {
+        "target": 24,
+        "emission_reduction_initiative": 2,
+        "value": 0.6851
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 27,
+    "fields": {
+        "target": 25,
+        "emission_reduction_initiative": 2,
+        "value": 0.5937761700000012
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 28,
+    "fields": {
+        "target": 26,
+        "emission_reduction_initiative": 2,
+        "value": 0.22206891688799735
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 29,
+    "fields": {
+        "target": 26,
+        "emission_reduction_initiative": 3,
+        "value": 0.1406551954079983
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 30,
+    "fields": {
+        "target": 27,
+        "emission_reduction_initiative": 2,
+        "value": 1.66593336
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 31,
+    "fields": {
+        "target": 27,
+        "emission_reduction_initiative": 3,
+        "value": 1.0551777599999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 32,
+    "fields": {
+        "target": 28,
+        "emission_reduction_initiative": 2,
+        "value": 1.66593336
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 33,
+    "fields": {
+        "target": 28,
+        "emission_reduction_initiative": 3,
+        "value": 1.0551777599999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 34,
+    "fields": {
+        "target": 29,
+        "emission_reduction_initiative": 2,
+        "value": 1.66593336
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 35,
+    "fields": {
+        "target": 29,
+        "emission_reduction_initiative": 3,
+        "value": 1.0551777599999999
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 36,
+    "fields": {
+        "target": 30,
+        "emission_reduction_initiative": 2,
+        "value": 0.35467721234400273
+    }
+},
+{
+    "model": "emissions.targetnoxreduction",
+    "pk": 37,
+    "fields": {
+        "target": 30,
+        "emission_reduction_initiative": 3,
+        "value": 0.2246473451040017
+    }
+}
+]

@@ -1,0 +1,278 @@
+[
+{
+    "model": "studies.studymetric",
+    "pk": 1,
+    "fields": {
+        "name": "Total tugs cost",
+        "key": "tugs_cost",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": false,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 2,
+    "fields": {
+        "name": "Total helicopter trips",
+        "key": "helicopter_trips",
+        "unit": "",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 3,
+    "fields": {
+        "name": "Total helicopter fuel consumption",
+        "key": "helicopter_fuel",
+        "unit": "tons",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 4,
+    "fields": {
+        "name": "Total helicopter CO2 emission",
+        "key": "helicopter_co2",
+        "unit": "tons",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 5,
+    "fields": {
+        "name": "Total helicopter cost",
+        "key": "helicopter_cost",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 6,
+    "fields": {
+        "name": "Total PSV trips",
+        "key": "psv_trips",
+        "unit": "",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 7,
+    "fields": {
+        "name": "Total PSV fuel consumption",
+        "key": "psv_fuel",
+        "unit": "tons",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 8,
+    "fields": {
+        "name": "Total PSV cost",
+        "key": "psv_cost",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 9,
+    "fields": {
+        "name": "Total PSV CO2 emission",
+        "key": "psv_co2",
+        "unit": "tons",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 11,
+    "fields": {
+        "name": "Total fuel consumption",
+        "key": "total_fuel",
+        "unit": "tons",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 12,
+    "fields": {
+        "name": "Total cost",
+        "key": "total_cost",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 13,
+    "fields": {
+        "name": "Total CO2 emission",
+        "key": "total_co2",
+        "unit": "tons",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 14,
+    "fields": {
+        "name": "Total AHV cost",
+        "key": "ahv_cost",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": true
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 15,
+    "fields": {
+        "name": "Total logistic cost",
+        "key": "total_logistic_cost",
+        "unit": "USD",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 16,
+    "fields": {
+        "name": "Total move cost",
+        "key": "total_move_cost",
+        "unit": "USD",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 17,
+    "fields": {
+        "name": "Total fuel cost",
+        "key": "total_fuel_cost",
+        "unit": "USD",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 18,
+    "fields": {
+        "name": "Total transit CO2 emission",
+        "key": "total_transit_co2",
+        "unit": "tons",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 19,
+    "fields": {
+        "name": "Total support CO2 emission",
+        "key": "total_support_co2",
+        "unit": "tons",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 20,
+    "fields": {
+        "name": "Total rig and spread cost",
+        "key": "total_rig_and_spread_cost",
+        "unit": "USD",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 21,
+    "fields": {
+        "name": "Day rate",
+        "key": "cost_per_day",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 22,
+    "fields": {
+        "name": "Total AHV fuel consumption",
+        "key": "ahv_fuel",
+        "unit": "USD",
+        "is_jackup_compatible": false,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 23,
+    "fields": {
+        "name": "Cost per meter",
+        "key": "cost_per_meter",
+        "unit": "USD",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+},
+{
+    "model": "studies.studymetric",
+    "pk": 24,
+    "fields": {
+        "name": "Total days",
+        "key": "total_days",
+        "unit": "",
+        "is_jackup_compatible": true,
+        "is_semi_compatible": true,
+        "is_drillship_compatible": false
+    }
+}
+]

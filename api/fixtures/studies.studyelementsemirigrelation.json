@@ -1,0 +1,82 @@
+[
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 9,
+    "fields": {
+        "study_element": 3,
+        "value": null,
+        "rig": 1,
+        "rig_plan_co2": 1
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 10,
+    "fields": {
+        "study_element": 3,
+        "value": null,
+        "rig": 2,
+        "rig_plan_co2": 2
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 11,
+    "fields": {
+        "study_element": 2,
+        "value": null,
+        "rig": 1,
+        "rig_plan_co2": 1
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 12,
+    "fields": {
+        "study_element": 2,
+        "value": null,
+        "rig": 2,
+        "rig_plan_co2": 2
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 13,
+    "fields": {
+        "study_element": 4,
+        "value": null,
+        "rig": 1,
+        "rig_plan_co2": 1
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 14,
+    "fields": {
+        "study_element": 4,
+        "value": null,
+        "rig": 2,
+        "rig_plan_co2": 2
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 15,
+    "fields": {
+        "study_element": 1,
+        "value": null,
+        "rig": 1,
+        "rig_plan_co2": 1
+    }
+},
+{
+    "model": "studies.studyelementsemirigrelation",
+    "pk": 16,
+    "fields": {
+        "study_element": 1,
+        "value": null,
+        "rig": 2,
+        "rig_plan_co2": 2
+    }
+}
+]

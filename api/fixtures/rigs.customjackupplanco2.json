@@ -1,0 +1,26 @@
+[
+{
+    "model": "rigs.customjackupplanco2",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-06-22T11:53:33.191Z",
+        "updated_at": "2022-10-07T06:54:49.140Z",
+        "plan": 1,
+        "helicopter_trips": 30.900333333333336,
+        "helicopter_fuel": 3.7552488425925934,
+        "helicopter_cost": 7430.564531250001,
+        "helicopter_co2": 11.866586342592596,
+        "psv_trips": 9.851785653799563,
+        "psv_fuel": 95.64441905563743,
+        "psv_cost": 256420.08771139418,
+        "psv_co2": 956.4441905563742,
+        "total_fuel": 1742.5915476116948,
+        "total_cost": 6287147.040788661,
+        "total_co2": 17400.229574033612,
+        "tugs_cost": 900.0,
+        "cost_per_meter": 2095.715680262887,
+        "total_days": 25.96666666666667,
+        "rig": 1
+    }
+}
+]

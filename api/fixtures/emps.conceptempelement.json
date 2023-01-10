@@ -1,0 +1,36 @@
+[
+{
+    "model": "emps.conceptempelement",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-03-03T12:22:37.291Z",
+        "updated_at": "2022-03-03T12:44:23.672Z",
+        "name": "First Concept EMP element",
+        "subarea": "first sub area",
+        "subarea_sensors": "Sub area sensors",
+        "subarea_external_id": "externalID",
+        "consumers": "consumers",
+        "consumer_sensors": "consumer sensors",
+        "baseline_average_power": 3000.0,
+        "target_average_power": 2700.0,
+        "percentage_improvement": 5.0
+    }
+},
+{
+    "model": "emps.conceptempelement",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-03-03T12:44:05.556Z",
+        "updated_at": "2022-03-03T12:44:05.556Z",
+        "name": "Second Concept EMP element",
+        "subarea": "second sub area",
+        "subarea_sensors": "Sub area sensors",
+        "subarea_external_id": "Sub area external id",
+        "consumers": "Consumers",
+        "consumer_sensors": "Consumer sensors",
+        "baseline_average_power": 5000.0,
+        "target_average_power": 4000.0,
+        "percentage_improvement": 1.5
+    }
+}
+]

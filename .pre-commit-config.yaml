@@ -1,0 +1,56 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  - repo: https://github.com/asottile/pyupgrade
+    rev: v2.32.1
+    hooks:
+      - id: pyupgrade
+        args: [--py310-plus]
+  - repo: local
+    hooks:
+      - id: api-check-integrity
+        name: django-migrations
+        language: python
+        entry: bash -c "cd api && docker-compose exec -T api python manage.py makemigrations --check --dry-run"
+        files: ^api/
+        types: [python]
+
+      - id: api-sort
+        name: isort
+        language: python
+        entry: bash -c "cd api && docker-compose exec -T api isort ."
+        pass_filenames: false
+        files: ^api/
+        types: [python]
+
+      - id: api-black
+        name: black
+        language: python
+        entry: bash -c "cd api && docker-compose exec -T api black ."
+        pass_filenames: false
+        files: ^api/
+        types: [python]
+
+      - id: api-check-quality
+        name: flake8
+        language: python
+        entry: bash -c "cd api && docker-compose exec -T api flake8 ."
+        pass_filenames: false
+        files: ^api/
+        types: [python]
+
+      - id: api-check-types
+        name: mypy
+        language: python
+        entry: bash -c "cd api && docker-compose exec -T api mypy ."
+        pass_filenames: false
+        files: ^api/
+        types: [python]
+
+      - id: dashboard-lint-staged
+        name: lint-staged
+        language: system
+        entry: yarn --cwd dashboard lint-staged
+        files: ^dashboard/
+        types_or: [javascript, jsx, ts, tsx]
+        pass_filenames: false

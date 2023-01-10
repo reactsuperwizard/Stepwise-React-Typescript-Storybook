@@ -1,0 +1,22 @@
+[
+{
+    "model": "studies.studyelementjackuprigrelation",
+    "pk": 7,
+    "fields": {
+        "study_element": 4,
+        "value": null,
+        "rig": 1,
+        "rig_plan_co2": 1
+    }
+},
+{
+    "model": "studies.studyelementjackuprigrelation",
+    "pk": 8,
+    "fields": {
+        "study_element": 1,
+        "value": null,
+        "rig": 1,
+        "rig_plan_co2": 1
+    }
+}
+]

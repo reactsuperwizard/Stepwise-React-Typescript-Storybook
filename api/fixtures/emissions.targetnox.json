@@ -1,0 +1,496 @@
+[
+{
+    "model": "emissions.targetnox",
+    "pk": 1,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-03-30T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 2,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-03-31T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 3,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-01T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 4,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-02T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 5,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-03T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 6,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-04T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 7,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-05T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 8,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-06T00:00:00Z",
+        "asset": 3.757,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 9,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-07T00:00:00Z",
+        "asset": 1.8785,
+        "boilers": 0.027625,
+        "vessels": 2.0023178929413166e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 10,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-07T12:00:00Z",
+        "asset": 1.0917842,
+        "boilers": 0.027624999999999997,
+        "vessels": 2.0023178929413166e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 11,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-08T00:00:00Z",
+        "asset": 2.1835684,
+        "boilers": 0.055249999999999994,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 12,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-09T00:00:00Z",
+        "asset": 2.1835684,
+        "boilers": 0.055249999999999994,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 13,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-10T00:00:00Z",
+        "asset": 1.8477355800800002,
+        "boilers": 0.04675255,
+        "vessels": 3.3887228020138843e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 14,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-10T20:18:31.680Z",
+        "asset": 0.37470355520000087,
+        "boilers": 0.008497450000000021,
+        "vessels": 6.159129838687505e-07,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.3076000000000007
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 15,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-11T00:00:00Z",
+        "asset": 2.436304,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 16,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-12T00:00:00Z",
+        "asset": 2.436304,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 17,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-13T00:00:00Z",
+        "asset": 2.436304,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 18,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-14T00:00:00Z",
+        "asset": 2.436304,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 19,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-15T00:00:00Z",
+        "asset": 2.436304,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 20,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-16T00:00:00Z",
+        "asset": 1.031043852799999,
+        "boilers": 0.023381799999999977,
+        "vessels": 1.6947618645855287e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.846399999999999
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 21,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-16T10:09:24.480Z",
+        "asset": 2.1542903199999954,
+        "boilers": 0.03186819999999992,
+        "vessels": 2.309873921297097e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 22,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-17T00:00:00Z",
+        "asset": 3.7349000000000006,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882632e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 23,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-18T00:00:00Z",
+        "asset": 3.7349000000000006,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882632e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 24,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-19T00:00:00Z",
+        "asset": 3.7349000000000006,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882632e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 25,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-20T00:00:00Z",
+        "asset": 3.2370378300000064,
+        "boilers": 0.047885175000000085,
+        "vessels": 3.470817835624484e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 26,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-20T20:48:02.880Z",
+        "asset": 0.4857037277039942,
+        "boilers": 0.007364824999999912,
+        "vessels": 5.338179502581487e-07,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.2665999999999968
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 27,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-21T00:00:00Z",
+        "asset": 3.64368888,
+        "boilers": 0.055249999999999994,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 28,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-22T00:00:00Z",
+        "asset": 3.64368888,
+        "boilers": 0.055249999999999994,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 29,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-23T00:00:00Z",
+        "asset": 3.64368888,
+        "boilers": 0.055249999999999994,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 1.9999999999999998
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 30,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-24T00:00:00Z",
+        "asset": 0.775741362552006,
+        "boilers": 0.01176272500000009,
+        "vessels": 8.525869588144192e-07,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.42580000000000323
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 31,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-24T05:06:34.560Z",
+        "asset": 4.557466419999993,
+        "boilers": 0.043487274999999936,
+        "vessels": 3.1520488270682156e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 32,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-25T00:00:00Z",
+        "asset": 5.7902,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 33,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-26T00:00:00Z",
+        "asset": 5.7902,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 34,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-27T00:00:00Z",
+        "asset": 5.7902,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 35,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-28T00:00:00Z",
+        "asset": 5.7902,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 36,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-29T00:00:00Z",
+        "asset": 5.7902,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 37,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-30T00:00:00Z",
+        "asset": 5.7902,
+        "boilers": 0.05525,
+        "vessels": 4.004635785882633e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.targetnox",
+    "pk": 38,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-01T00:00:00Z",
+        "asset": 4.127833580000007,
+        "boilers": 0.03938772500000007,
+        "vessels": 2.854904851755734e-06,
+        "helicopters": 0.0,
+        "external_energy_supply": 0.0
+    }
+}
+]

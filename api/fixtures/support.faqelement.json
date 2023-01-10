@@ -1,0 +1,106 @@
+[
+{
+    "model": "support.faqelement",
+    "pk": 1,
+    "fields": {
+        "order": 1,
+        "created_at": "2022-05-11T13:40:25.928Z",
+        "updated_at": "2022-05-11T13:40:25.928Z",
+        "question": "How can I invite other users?",
+        "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "draft": false,
+        "faq": 1
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 2,
+    "fields": {
+        "order": 2,
+        "created_at": "2022-05-11T13:40:25.930Z",
+        "updated_at": "2022-05-11T13:40:25.930Z",
+        "question": "How can I change my password?",
+        "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "draft": false,
+        "faq": 1
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 3,
+    "fields": {
+        "order": 3,
+        "created_at": "2022-05-11T13:40:25.931Z",
+        "updated_at": "2022-05-11T13:40:25.931Z",
+        "question": "How can I remove my account?",
+        "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "draft": true,
+        "faq": 1
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 4,
+    "fields": {
+        "order": 4,
+        "created_at": "2022-05-11T13:42:12.603Z",
+        "updated_at": "2022-05-11T13:42:12.603Z",
+        "question": "How can I create a new rig?",
+        "answer": "<p>Lorem ipsum dolor sit amet:</p>\r\n\r\n<ul>\r\n\t<li><strong>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></li>\r\n\t<li><em>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </em></li>\r\n\t<li><u>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</u></li>\r\n\t<li><s>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</s></li>\r\n\t<li><s><u><em><strong>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</strong></em></u></s></li>\r\n</ul>",
+        "draft": false,
+        "faq": 2
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 5,
+    "fields": {
+        "order": 5,
+        "created_at": "2022-05-11T13:42:12.603Z",
+        "updated_at": "2022-05-11T13:42:12.603Z",
+        "question": "How can I create a new well?",
+        "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n\r\n<ul>\r\n\t<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>\r\n\t<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>\r\n</ul>",
+        "draft": false,
+        "faq": 2
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 6,
+    "fields": {
+        "order": 6,
+        "created_at": "2022-05-11T13:42:12.604Z",
+        "updated_at": "2022-05-11T13:42:12.604Z",
+        "question": "How can I create a project?",
+        "answer": "<p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit,</strong> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>\r\n\r\n<ul>\r\n\t<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>\r\n\t<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>\r\n</ul>",
+        "draft": false,
+        "faq": 2
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 7,
+    "fields": {
+        "order": 7,
+        "created_at": "2022-05-11T13:42:59.437Z",
+        "updated_at": "2022-05-11T13:42:59.437Z",
+        "question": "How can I study rigs?",
+        "answer": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "draft": false,
+        "faq": 4
+    }
+},
+{
+    "model": "support.faqelement",
+    "pk": 8,
+    "fields": {
+        "order": 8,
+        "created_at": "2022-05-11T13:43:20.567Z",
+        "updated_at": "2022-05-11T18:50:21.874Z",
+        "question": "How can I create a new monitor?",
+        "answer": "<ul>\r\n\t<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>\r\n\t<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>\r\n</ul>",
+        "draft": true,
+        "faq": 3
+    }
+}
+]

@@ -1,0 +1,506 @@
+[
+{
+    "model": "kims.tag",
+    "pk": 43,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.471Z",
+        "updated_at": "2022-08-05T12:00:00.329Z",
+        "name": "Booltest2",
+        "vessel": 1,
+        "data_type": "Object",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 44,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.471Z",
+        "updated_at": "2022-07-11T15:00:14.023Z",
+        "name": "Booltest2",
+        "vessel": 2,
+        "data_type": "Object",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 45,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.473Z",
+        "updated_at": "2022-08-05T12:00:00.332Z",
+        "name": "Power_DGx_Capacity",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 46,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.473Z",
+        "updated_at": "2022-07-11T15:00:14.032Z",
+        "name": "Power_DGx_Capacity",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 47,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.476Z",
+        "updated_at": "2022-08-05T12:00:00.334Z",
+        "name": "Power_DGx_Load_Calc_percent",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 48,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.476Z",
+        "updated_at": "2022-07-11T15:00:14.036Z",
+        "name": "Power_DGx_Load_Calc_percent",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 49,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.478Z",
+        "updated_at": "2022-08-05T12:00:00.336Z",
+        "name": "Power_DGx_Load_kW",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 50,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.478Z",
+        "updated_at": "2022-07-11T15:00:14.043Z",
+        "name": "Power_DGx_Load_kW",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 51,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.480Z",
+        "updated_at": "2022-08-05T12:00:00.339Z",
+        "name": "Power_DGx_Load_MonthlyAverage_percent",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 52,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.480Z",
+        "updated_at": "2022-07-11T15:00:14.051Z",
+        "name": "Power_DGx_Load_MonthlyAverage_percent",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 53,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.481Z",
+        "updated_at": "2022-08-05T12:00:00.340Z",
+        "name": "Power_DGx_LoadRangeFour",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 54,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.481Z",
+        "updated_at": "2022-07-11T15:00:14.061Z",
+        "name": "Power_DGx_LoadRangeFour",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 55,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.483Z",
+        "updated_at": "2022-08-05T12:00:00.342Z",
+        "name": "Power_DGx_LoadRangeOne",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 56,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.484Z",
+        "updated_at": "2022-07-11T15:00:14.067Z",
+        "name": "Power_DGx_LoadRangeOne",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 57,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.485Z",
+        "updated_at": "2022-07-11T15:00:14.077Z",
+        "name": "Power_DGx_LoadRangeThree",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 58,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.485Z",
+        "updated_at": "2022-08-05T12:00:00.345Z",
+        "name": "Power_DGx_LoadRangeThree",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 59,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.487Z",
+        "updated_at": "2022-07-11T15:00:14.086Z",
+        "name": "Power_DGx_LoadRangeTwo",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 60,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.487Z",
+        "updated_at": "2022-08-05T12:00:00.347Z",
+        "name": "Power_DGx_LoadRangeTwo",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 61,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.489Z",
+        "updated_at": "2022-07-11T15:00:14.090Z",
+        "name": "Power_DGx_RunningHours_LoadRangeFour",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 62,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.489Z",
+        "updated_at": "2022-08-05T12:00:00.351Z",
+        "name": "Power_DGx_RunningHours_LoadRangeFour",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 63,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.491Z",
+        "updated_at": "2022-08-05T12:00:00.352Z",
+        "name": "Power_DGx_RunningHours_LoadRangeOne",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 64,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.491Z",
+        "updated_at": "2022-07-11T15:00:14.093Z",
+        "name": "Power_DGx_RunningHours_LoadRangeOne",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 65,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.493Z",
+        "updated_at": "2022-08-05T12:00:00.354Z",
+        "name": "Power_DGx_RunningHours_LoadRangeThree",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 66,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.493Z",
+        "updated_at": "2022-07-11T15:00:14.097Z",
+        "name": "Power_DGx_RunningHours_LoadRangeThree",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 67,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.494Z",
+        "updated_at": "2022-08-05T12:00:00.356Z",
+        "name": "Power_DGx_RunningHours_LoadRangeTwo",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 68,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.495Z",
+        "updated_at": "2022-07-11T15:00:14.103Z",
+        "name": "Power_DGx_RunningHours_LoadRangeTwo",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 69,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.496Z",
+        "updated_at": "2022-08-05T12:00:00.358Z",
+        "name": "Power_DGx_RunningHours_Monthly",
+        "vessel": 1,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 70,
+    "fields": {
+        "created_at": "2022-07-11T13:55:53.497Z",
+        "updated_at": "2022-07-11T15:00:14.110Z",
+        "name": "Power_DGx_RunningHours_Monthly",
+        "vessel": 2,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 71,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.880Z",
+        "updated_at": "2022-07-11T15:00:14.029Z",
+        "name": "Booltest2",
+        "vessel": 3,
+        "data_type": "Object",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 72,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.882Z",
+        "updated_at": "2022-07-11T15:00:14.042Z",
+        "name": "Power_DGx_Capacity",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 73,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.884Z",
+        "updated_at": "2022-07-11T15:00:14.050Z",
+        "name": "Power_DGx_Load_Calc_percent",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 74,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.885Z",
+        "updated_at": "2022-07-11T15:00:14.054Z",
+        "name": "Power_DGx_Load_kW",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 75,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.887Z",
+        "updated_at": "2022-07-11T15:00:14.064Z",
+        "name": "Power_DGx_Load_MonthlyAverage_percent",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 76,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.889Z",
+        "updated_at": "2022-07-11T15:00:14.069Z",
+        "name": "Power_DGx_LoadRangeFour",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 77,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.892Z",
+        "updated_at": "2022-07-11T15:00:14.074Z",
+        "name": "Power_DGx_LoadRangeOne",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 78,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.894Z",
+        "updated_at": "2022-07-11T15:00:14.082Z",
+        "name": "Power_DGx_LoadRangeThree",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 79,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.896Z",
+        "updated_at": "2022-07-11T15:00:14.088Z",
+        "name": "Power_DGx_LoadRangeTwo",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 80,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.898Z",
+        "updated_at": "2022-07-11T15:00:14.095Z",
+        "name": "Power_DGx_RunningHours_LoadRangeFour",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 81,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.900Z",
+        "updated_at": "2022-07-11T15:00:14.103Z",
+        "name": "Power_DGx_RunningHours_LoadRangeOne",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 82,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.902Z",
+        "updated_at": "2022-07-11T15:00:14.106Z",
+        "name": "Power_DGx_RunningHours_LoadRangeThree",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 83,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.904Z",
+        "updated_at": "2022-07-11T15:00:14.114Z",
+        "name": "Power_DGx_RunningHours_LoadRangeTwo",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+},
+{
+    "model": "kims.tag",
+    "pk": 84,
+    "fields": {
+        "created_at": "2022-07-11T13:55:55.907Z",
+        "updated_at": "2022-07-11T15:00:14.120Z",
+        "name": "Power_DGx_RunningHours_Monthly",
+        "vessel": 3,
+        "data_type": "Double",
+        "deleted": false
+    }
+}
+]

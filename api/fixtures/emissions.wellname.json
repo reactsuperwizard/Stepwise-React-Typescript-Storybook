@@ -1,0 +1,26 @@
+[
+{
+    "model": "emissions.wellname",
+    "pk": 1,
+    "fields": {
+        "tenant": 1,
+        "name": "Well name"
+    }
+},
+{
+    "model": "emissions.wellname",
+    "pk": 2,
+    "fields": {
+        "tenant": 1,
+        "name": "Planned Well Plan"
+    }
+},
+{
+    "model": "emissions.wellname",
+    "pk": 3,
+    "fields": {
+        "tenant": 1,
+        "name": "Complete Well Plan"
+    }
+}
+]

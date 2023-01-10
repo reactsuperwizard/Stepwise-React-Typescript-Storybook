@@ -1,0 +1,58 @@
+[
+{
+    "model": "monitors.monitorelementphase",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-07-14T08:36:38.722Z",
+        "updated_at": "2022-08-05T12:19:28.641Z",
+        "monitor_element": 1,
+        "name": "Transit",
+        "start_date": "2022-07-10",
+        "end_date": "2022-07-15",
+        "target": 360.0,
+        "baseline": 405.0
+    }
+},
+{
+    "model": "monitors.monitorelementphase",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-07-14T08:36:38.723Z",
+        "updated_at": "2022-08-05T12:21:33.626Z",
+        "monitor_element": 2,
+        "name": "Default",
+        "start_date": "2022-07-10",
+        "end_date": "2022-07-20",
+        "target": 800.0,
+        "baseline": 900.0
+    }
+},
+{
+    "model": "monitors.monitorelementphase",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-07-14T08:36:38.725Z",
+        "updated_at": "2022-07-14T08:36:38.725Z",
+        "monitor_element": 3,
+        "name": "Default",
+        "start_date": "2022-07-10",
+        "end_date": "2022-07-20",
+        "target": 909.09,
+        "baseline": 90.91
+    }
+},
+{
+    "model": "monitors.monitorelementphase",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-07-14T09:02:06.688Z",
+        "updated_at": "2022-08-05T12:20:39.392Z",
+        "monitor_element": 1,
+        "name": "Drilling",
+        "start_date": "2022-07-16",
+        "end_date": "2022-07-20",
+        "target": 330.0,
+        "baseline": 410.0
+    }
+}
+]

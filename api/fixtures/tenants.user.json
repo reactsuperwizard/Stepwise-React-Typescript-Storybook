@@ -1,0 +1,118 @@
+[{
+    "model": "tenants.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$b3MVMk3ExIAaege25B5Gl2$H1zTbU2OZAi7oh3+zl1S0coPo9u2Mw9spbKaee0pC68=",
+        "last_login": "2022-11-24T15:06:06.871Z",
+        "is_superuser": true,
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-02-22T10:13:40Z",
+        "username": "superadmin@example.com",
+        "first_name": "Super Admin",
+        "last_name": "User",
+        "email": "superadmin@example.com",
+        "profile_image": "",
+        "company": null,
+        "company_name": "",
+        "phone_number": "",
+        "role": "ADMIN",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "tenants.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$xkrxHJ0kAoJScawiStYn9n$6bPYOa+pVrqLT5L/DuSPgZ3wnrdq6BKixp9QtnkTp1g=",
+        "last_login": null,
+        "is_superuser": false,
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-02-22T11:14:48Z",
+        "username": "assetmanager@example.com",
+        "first_name": "Asset Manager",
+        "last_name": "User",
+        "email": "assetmanager@example.com",
+        "profile_image": "",
+        "company": 1,
+        "company_name": "First Tenant",
+        "phone_number": "",
+        "role": "ASSET_MANAGER",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "tenants.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$es8ujFruUWDtSHjSX6Tuw4$+qyk9RsgK1zO9FHHciCbalCJoNxeS99ETYM+gD3x2/0=",
+        "last_login": null,
+        "is_superuser": false,
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-02-22T11:15:35Z",
+        "username": "operator@example.com",
+        "first_name": "Operator",
+        "last_name": "User",
+        "email": "operator@example.com",
+        "profile_image": "",
+        "company": 1,
+        "company_name": "First Tenant",
+        "phone_number": "",
+        "role": "OPERATOR",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "tenants.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$0hO1Bjjoq6w4wrDzlf1aKD$zfL+4f6GvogmVXS4iRB3T5y3mZYiTcDheNKY99nezVE=",
+        "last_login": null,
+        "is_superuser": false,
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-02-23T09:20:42Z",
+        "username": "staffmember@example.com",
+        "first_name": "Staff",
+        "last_name": "Member",
+        "email": "staffmember@example.com",
+        "profile_image": "",
+        "company": null,
+        "company_name": "",
+        "phone_number": "",
+        "role": "ADMIN",
+        "groups": [
+            1
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "tenants.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$320000$qhAaXrrSLY0KDDwDAdmY8P$erXpAK+IH8ra3y5waus1HdWG0E3B59JOo22GafkqyXc=",
+        "last_login": "2022-11-24T15:07:48.024Z",
+        "is_superuser": false,
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-11-24T11:53:45Z",
+        "username": "admin@example.com",
+        "first_name": "Admin",
+        "last_name": "User",
+        "email": "admin@example.com",
+        "profile_image": "",
+        "company": null,
+        "company_name": "",
+        "phone_number": "",
+        "role": "ADMIN",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

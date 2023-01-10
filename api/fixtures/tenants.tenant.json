@@ -1,0 +1,29 @@
+[
+{
+    "model": "tenants.tenant",
+    "pk": 1,
+    "fields": {
+        "name": "First tenant",
+        "subdomain": "first.example.com",
+        "is_active": true
+    }
+},
+{
+    "model": "tenants.tenant",
+    "pk": 2,
+    "fields": {
+        "name": "Second tenant",
+        "subdomain": "second.example.com",
+        "is_active": true
+    }
+},
+{
+    "model": "tenants.tenant",
+    "pk": 3,
+    "fields": {
+        "name": "Disabled tenant",
+        "subdomain": "disabled.example.com",
+        "is_active": false
+    }
+}
+]

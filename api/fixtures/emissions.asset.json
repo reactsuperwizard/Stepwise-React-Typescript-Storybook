@@ -1,0 +1,50 @@
+[
+{
+    "model": "emissions.asset",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-07-18T11:38:33.225Z",
+        "updated_at": "2022-07-18T11:38:33.225Z",
+        "tenant": 1,
+        "deleted": false,
+        "name": "Rig planner 1",
+        "type": "JACKUP",
+        "green_house_gas_class_notation": "",
+        "design_description": "Design description",
+        "vessel": 1,
+        "draft": false
+    }
+},
+{
+    "model": "emissions.asset",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-07-18T11:38:33.225Z",
+        "updated_at": "2022-07-18T11:38:33.225Z",
+        "tenant": 1,
+        "deleted": false,
+        "name": "Draft Rig planner",
+        "type": "JACKUP",
+        "green_house_gas_class_notation": "",
+        "design_description": "Design description",
+        "vessel": null,
+        "draft": true
+    }
+},
+{
+    "model": "emissions.asset",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-10-24T06:59:42.744Z",
+        "updated_at": "2022-11-10T10:56:16.071Z",
+        "tenant": 1,
+        "deleted": false,
+        "name": "Empty asset",
+        "type": "SEMI",
+        "green_house_gas_class_notation": "Green house gas class notation",
+        "design_description": "Design description",
+        "vessel": null,
+        "draft": true
+    }
+}
+]

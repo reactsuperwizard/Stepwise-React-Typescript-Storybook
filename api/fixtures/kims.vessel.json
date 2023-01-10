@@ -1,0 +1,54 @@
+[
+{
+    "model": "kims.vessel",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-05-13T11:13:38.625Z",
+        "updated_at": "2022-11-10T11:55:23.460Z",
+        "kims_api": 1,
+        "kims_vessel_id": "OSV1",
+        "name": "Rig planner 1",
+        "is_active": true,
+        "tags_synced_at": "2022-08-05T12:00:00Z"
+    }
+},
+{
+    "model": "kims.vessel",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-07-04T10:59:40.868Z",
+        "updated_at": "2022-08-05T11:52:23.038Z",
+        "kims_api": 1,
+        "kims_vessel_id": "Vessel2",
+        "name": "KIMS Vessel2 Test Vessel",
+        "is_active": true,
+        "tags_synced_at": null
+    }
+},
+{
+    "model": "kims.vessel",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-07-04T10:59:51.344Z",
+        "updated_at": "2022-08-05T11:52:30.068Z",
+        "kims_api": 1,
+        "kims_vessel_id": "Vessel3",
+        "name": "KIMS Vessel3 Test Vessel",
+        "is_active": true,
+        "tags_synced_at": null
+    }
+},
+{
+    "model": "kims.vessel",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-07-04T11:01:04.323Z",
+        "updated_at": "2022-07-04T11:01:04.323Z",
+        "kims_api": 1,
+        "kims_vessel_id": "OSV1",
+        "name": "KIMS OSV1 Inactive Test Vessel",
+        "is_active": false,
+        "tags_synced_at": null
+    }
+}
+]

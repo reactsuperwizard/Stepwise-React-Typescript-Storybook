@@ -1,0 +1,4106 @@
+[
+{
+    "model": "emissions.baselineinput",
+    "pk": 11,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 85.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 10
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 24,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 115.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 23
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 27,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 112.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 26
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 28,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 81.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 27
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 29,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 120.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 28
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 30,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 130.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 29
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 31,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 85.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 30
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 32,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 107.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 31
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 33,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 80.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 32
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 34,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 100.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 33
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 35,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 130.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 34
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 36,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 100.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 35
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 37,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 127.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 36
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 38,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 105.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 37
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 39,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 103.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 38
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 40,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 147.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 39
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 41,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 96.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 40
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 42,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 150.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 41
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 43,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 131.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 42
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 44,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 145.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 43
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 45,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 140.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 44
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 46,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 123.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 45
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 47,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 119.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 46
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 48,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 97.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 47
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 49,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 84.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 48
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 50,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 82.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 49
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 51,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 99.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 50
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 52,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 125.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 51
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 53,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 101.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 52
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 54,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 102.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 53
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 55,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 101.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 54
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 56,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 99.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 55
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 60,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 81.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 59
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 61,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 146.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 60
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 62,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 87.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 61
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 63,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 126.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 62
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 64,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 88.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 63
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 65,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 113.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 64
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 66,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 106.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 65
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 67,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 97.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 66
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 68,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 80.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 67
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 69,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 114.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 68
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 70,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 147.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 69
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 71,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 147.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 70
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 72,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 99.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 71
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 73,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 106.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 72
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 74,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 119.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 73
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 75,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 139.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 74
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 76,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 111.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 75
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 77,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 100.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 76
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 78,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 139.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 77
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 79,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 81.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 78
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 80,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 134.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 79
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 81,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 81.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 80
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 82,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 150.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 81
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 83,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 89.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 82
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 84,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 121.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 83
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 85,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 132.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 84
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 86,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 127.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 85
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 87,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 124.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 86
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 88,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 112.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 87
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 89,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 115.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 88
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 90,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 84.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 89
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 91,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 102.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 90
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 92,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 116.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 91
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 93,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 82.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 92
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 94,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 121.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 93
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 95,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 110.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 94
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 99,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 84.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 98
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 100,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 83.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 99
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 101,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 134.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 100
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 102,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 82.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 101
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 103,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 100.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 102
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 104,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 103.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 103
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 107,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 1
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 109,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 2.15,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 11
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 110,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 71
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 112,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 76
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 113,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 12
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 114,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 13
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 115,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 14
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 116,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 2
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 117,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 3
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 118,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 4
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 120,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 2.23,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 6
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 121,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 3.3,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 7
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 122,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 4.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 8
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 123,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 6.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 9
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 125,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 16
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 126,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 17
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 127,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 18
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 128,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 19
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 130,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 21
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 131,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 22
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 132,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 23
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 133,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 24
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 135,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 26
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 136,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 27
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 137,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 28
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 138,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 29
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 140,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 31
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 141,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 32
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 142,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 33
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 143,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 34
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 145,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 36
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 146,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 37
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 147,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 38
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 148,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 39
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 150,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 41
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 151,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 42
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 152,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 43
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 153,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 44
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 155,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 2.15,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 46
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 156,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 47
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 157,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 48
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 158,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 49
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 159,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 50
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 165,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 56
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 166,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 57
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 167,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 58
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 168,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 59
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 170,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 61
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 171,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 62
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 172,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 63
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 173,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 64
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 175,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 66
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 176,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 67
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 177,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 68
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 178,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 69
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 179,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 72
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 180,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 73
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 181,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 74
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 182,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 77
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 183,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 78
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 184,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 79
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 186,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 81
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 187,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 82
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 188,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 83
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 189,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 84
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 191,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 86
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 192,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 87
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 193,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 88
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 194,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 89
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 196,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 91
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 197,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 92
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 198,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 93
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 199,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 94
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 201,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 96
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 202,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 97
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 203,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 98
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 204,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 99
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 206,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 101
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 207,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 102
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 208,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 103
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 209,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 104
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 211,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 106
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 212,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 107
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 213,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 108
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 214,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 109
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 216,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 111
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 217,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 112
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 218,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 113
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 219,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 114
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 220,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 115
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 226,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 121
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 227,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 122
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 228,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 123
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 229,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 124
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 231,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 126
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 232,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 127
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 233,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 128
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 234,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 129
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 236,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 131
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 237,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 132
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 238,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 133
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 239,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 134
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 241,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 136
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 242,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 137
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 243,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 138
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 244,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 139
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 252,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 127.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 104
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 253,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 148.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 105
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 254,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 114.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 106
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 255,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 124.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 107
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 256,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 91.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 108
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 257,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 138.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 109
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 258,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 82.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 110
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 259,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 123.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 111
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 260,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 123.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 112
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 261,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 124.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 113
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 262,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 110.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 114
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 263,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 142.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 115
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 264,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 111.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 116
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 265,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 123.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 117
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 266,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 138.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 118
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 267,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 110.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 119
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 268,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 122.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 120
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 269,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 113.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 121
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 272,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 108.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 124
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 273,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 121.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 125
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 274,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 94.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 126
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 275,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 127.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 127
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 276,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 116.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 128
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 277,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 133.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 129
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 280,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 116.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 132
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 281,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 80.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 133
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 282,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 85.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 134
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 283,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 147.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 135
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 284,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 140.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 136
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 285,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 110.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 137
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 286,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 135.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 138
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 287,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 88.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 139
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 288,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 4
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 289,
+    "fields": {
+        "phase": 2,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 5
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 290,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 6
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 291,
+    "fields": {
+        "phase": 2,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 7
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 292,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 8
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 293,
+    "fields": {
+        "phase": 2,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 9
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 294,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 10
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 295,
+    "fields": {
+        "phase": 2,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 11
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 296,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 12
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 297,
+    "fields": {
+        "phase": 3,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 13
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 300,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 16
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 301,
+    "fields": {
+        "phase": 3,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 17
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 302,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 18
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 303,
+    "fields": {
+        "phase": 3,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 19
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 304,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 20
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 305,
+    "fields": {
+        "phase": 3,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 21
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 306,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 22
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 307,
+    "fields": {
+        "phase": 4,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 23
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 310,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 26
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 311,
+    "fields": {
+        "phase": 4,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 27
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 312,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 28
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 313,
+    "fields": {
+        "phase": 4,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 29
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 314,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 30
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 315,
+    "fields": {
+        "phase": 4,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 31
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 316,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 32
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 317,
+    "fields": {
+        "phase": 5,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 33
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 320,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 36
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 321,
+    "fields": {
+        "phase": 5,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 37
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 322,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 38
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 323,
+    "fields": {
+        "phase": 5,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 39
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 324,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 40
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 325,
+    "fields": {
+        "phase": 5,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 41
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 326,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 42
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 327,
+    "fields": {
+        "phase": 6,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 43
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 330,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 46
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 331,
+    "fields": {
+        "phase": 6,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 47
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 332,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 48
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 333,
+    "fields": {
+        "phase": 6,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 49
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 334,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 50
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 335,
+    "fields": {
+        "phase": 6,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 51
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 336,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 52
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 337,
+    "fields": {
+        "phase": 7,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 53
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 340,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 56
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 341,
+    "fields": {
+        "phase": 7,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 57
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 342,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 58
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 343,
+    "fields": {
+        "phase": 7,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 59
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 344,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 60
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 345,
+    "fields": {
+        "phase": 7,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 61
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 346,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 62
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 347,
+    "fields": {
+        "phase": 12,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 63
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 350,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 66
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 351,
+    "fields": {
+        "phase": 12,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 67
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 352,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 68
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 353,
+    "fields": {
+        "phase": 12,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 69
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 354,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 70
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 355,
+    "fields": {
+        "phase": 12,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 71
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 356,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 72
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 357,
+    "fields": {
+        "phase": 13,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 73
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 360,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 76
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 361,
+    "fields": {
+        "phase": 13,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 77
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 362,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 78
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 363,
+    "fields": {
+        "phase": 13,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 79
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 364,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 80
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 365,
+    "fields": {
+        "phase": 13,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 81
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 366,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 82
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 367,
+    "fields": {
+        "phase": 27,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 83
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 370,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 86
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 371,
+    "fields": {
+        "phase": 27,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 87
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 372,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 88
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 373,
+    "fields": {
+        "phase": 27,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 89
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 374,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 90
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 375,
+    "fields": {
+        "phase": 27,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 91
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 378,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 94
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 379,
+    "fields": {
+        "phase": 11,
+        "mode": 1,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 95
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 386,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 102
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 387,
+    "fields": {
+        "phase": 1,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 103
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 388,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 104
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 389,
+    "fields": {
+        "phase": 1,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 105
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 390,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 106
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 391,
+    "fields": {
+        "phase": 1,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 107
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 392,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 108
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 393,
+    "fields": {
+        "phase": 1,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 109
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 394,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 110
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 395,
+    "fields": {
+        "phase": 8,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 111
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 398,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 114
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 399,
+    "fields": {
+        "phase": 8,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 115
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 400,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 116
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 401,
+    "fields": {
+        "phase": 8,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 117
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 402,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 118
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 403,
+    "fields": {
+        "phase": 8,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 119
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 404,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 120
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 405,
+    "fields": {
+        "phase": 9,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 121
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 408,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 124
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 409,
+    "fields": {
+        "phase": 9,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 125
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 410,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 126
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 411,
+    "fields": {
+        "phase": 9,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 127
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 412,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 128
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 413,
+    "fields": {
+        "phase": 9,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 129
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 414,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 130
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 415,
+    "fields": {
+        "phase": 10,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 131
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 418,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 134
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 419,
+    "fields": {
+        "phase": 10,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 135
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 420,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 136
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 421,
+    "fields": {
+        "phase": 10,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 137
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 422,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 138
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 423,
+    "fields": {
+        "phase": 10,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 139
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 424,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 131.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 140
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 425,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 108.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 141
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 426,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 83.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 142
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 427,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 148.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 143
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 428,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 82.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 144
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 429,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 141.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 145
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 430,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 134.0,
+        "baseline": 1,
+        "season": "SUMMER",
+        "order": 146
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 431,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 125.0,
+        "baseline": 1,
+        "season": "WINTER",
+        "order": 147
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 432,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 140
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 433,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 141
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 434,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 142
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 435,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 143
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 436,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 144
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 437,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 145
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 438,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "SUMMER",
+        "order": 146
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 439,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 2,
+        "season": "WINTER",
+        "order": 147
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 440,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 140
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 441,
+    "fields": {
+        "phase": 28,
+        "mode": 4,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 141
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 442,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 142
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 443,
+    "fields": {
+        "phase": 28,
+        "mode": 9,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 143
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 444,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 144
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 445,
+    "fields": {
+        "phase": 28,
+        "mode": 3,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 145
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 446,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "SUMMER",
+        "order": 146
+    }
+},
+{
+    "model": "emissions.baselineinput",
+    "pk": 447,
+    "fields": {
+        "phase": 28,
+        "mode": 2,
+        "value": 0.0,
+        "baseline": 3,
+        "season": "WINTER",
+        "order": 147
+    }
+}
+]

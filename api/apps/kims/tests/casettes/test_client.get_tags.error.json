@@ -1,0 +1,152 @@
+{
+    "version": 1,
+    "interactions": [
+        {
+            "request": {
+                "method": "POST",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/token",
+                "body": "{\"Username\": \"\", \"Password\": \"\"}",
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.1"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Content-Length": [
+                        "55"
+                    ],
+                    "Content-Type": [
+                        "application/json"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 200,
+                    "message": "OK"
+                },
+                "headers": {
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "Content-Length": [
+                        "165"
+                    ],
+                    "Date": [
+                        "Tue, 05 Jul 2022 12:18:36 GMT"
+                    ],
+                    "Content-Type": [
+                        "application/json; charset=utf-8"
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ]
+                },
+                "body": {
+                    "string": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTcwMjUzMTYsImlzcyI6ImxvY2FsaG9zdCIsImF1ZCI6ImxvY2FsaG9zdCJ9.wZIJoGWcNwr5atWlYuEZIwITlIIfYToq_buCYJnFo74\"}"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "uri": "https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/Vessels('OSV2')/Tags",
+                "body": null,
+                "headers": {
+                    "User-Agent": [
+                        "python-requests/2.28.1"
+                    ],
+                    "Accept-Encoding": [
+                        "gzip, deflate"
+                    ],
+                    "Accept": [
+                        "*/*"
+                    ],
+                    "Connection": [
+                        "keep-alive"
+                    ],
+                    "Authorization": [
+                        "REDACTED"
+                    ]
+                }
+            },
+            "response": {
+                "status": {
+                    "code": 400,
+                    "message": "Bad Request"
+                },
+                "headers": {
+                    "X-Vessel": [
+                        "OSV2"
+                    ],
+                    "Request-Context": [
+                        "appId="
+                    ],
+                    "OData-Version": [
+                        "4.0"
+                    ],
+                    "X-POWERED-BY": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ],
+                    "X-Interval-Data": [
+                        "1 minutes"
+                    ],
+                    "X-To-Datatime": [
+                        "07/05/2022 12:18:36"
+                    ],
+                    "X-ASPNET-VERSION": [
+                        "Unknown"
+                    ],
+                    "X-Aggregate-Function": [
+                        "Linear Interpolation"
+                    ],
+                    "X-From-Datatime": [
+                        "07/05/2022 12:08:36"
+                    ],
+                    "Date": [
+                        "Tue, 05 Jul 2022 12:18:36 GMT"
+                    ],
+                    "Content-Length": [
+                        "138"
+                    ],
+                    "Content-Type": [
+                        "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8"
+                    ],
+                    "Server": [
+                        "Unknown"
+                    ],
+                    "X-Powered-By": [
+                        "Unknown",
+                        "Unknown",
+                        "Unknown"
+                    ]
+                },
+                "body": {
+                    "string": "{\"@odata.context\":\"https://kimsapi.demo.kognif.ai/Routing/KIMSAPI/$metadata#Edm.String\",\"value\":\"Vessel with name: OSV2 does not exists.\"}"
+                }
+            }
+        }
+    ]
+}

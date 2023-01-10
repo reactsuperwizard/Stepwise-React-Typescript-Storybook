@@ -1,0 +1,1808 @@
+[
+{
+    "model": "emissions.baselineco2",
+    "pk": 174,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-19T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 175,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-20T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 176,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-21T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 177,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-22T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 178,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-23T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 179,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-24T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 180,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-25T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 181,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-26T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 182,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-27T00:00:00Z",
+        "asset": 345.53,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.931052631578948,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 183,
+    "fields": {
+        "planned_step": 1,
+        "datetime": "2022-03-28T00:00:00Z",
+        "asset": 172.765,
+        "boilers": 0.0,
+        "vessels": 77.06470588235294,
+        "helicopters": 0.0,
+        "materials": 2.465526315789474,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 184,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-03-28T12:00:00Z",
+        "asset": 201.295,
+        "boilers": 0.0,
+        "vessels": 77.06470588235294,
+        "helicopters": 0.0,
+        "materials": 2.3866666666666663,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 185,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-03-29T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 186,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-03-30T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 187,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-03-31T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 188,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-04-01T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 189,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-04-02T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 190,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-04-03T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 191,
+    "fields": {
+        "planned_step": 2,
+        "datetime": "2022-04-04T00:00:00Z",
+        "asset": 402.59,
+        "boilers": 0.0,
+        "vessels": 154.12941176470588,
+        "helicopters": 0.0,
+        "materials": 4.7733333333333325,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 192,
+    "fields": {
+        "planned_step": 3,
+        "datetime": "2022-04-05T00:00:00Z",
+        "asset": 367.72,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 16.016666666666666,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 193,
+    "fields": {
+        "planned_step": 3,
+        "datetime": "2022-04-06T00:00:00Z",
+        "asset": 367.72,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 16.016666666666666,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 194,
+    "fields": {
+        "planned_step": 3,
+        "datetime": "2022-04-07T00:00:00Z",
+        "asset": 367.72,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 16.016666666666666,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 195,
+    "fields": {
+        "planned_step": 3,
+        "datetime": "2022-04-08T00:00:00Z",
+        "asset": 367.72,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 16.016666666666666,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 196,
+    "fields": {
+        "planned_step": 3,
+        "datetime": "2022-04-09T00:00:00Z",
+        "asset": 367.72,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 16.016666666666666,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 197,
+    "fields": {
+        "planned_step": 3,
+        "datetime": "2022-04-10T00:00:00Z",
+        "asset": 367.72,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 16.016666666666666,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 198,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-11T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 199,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-12T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 200,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-13T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 201,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-14T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 202,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-15T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 203,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-16T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 204,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-17T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 205,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-18T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 206,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-19T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 207,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-20T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 208,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-21T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 209,
+    "fields": {
+        "planned_step": 4,
+        "datetime": "2022-04-22T00:00:00Z",
+        "asset": 440.62999999999994,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 6.680000000000001,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 210,
+    "fields": {
+        "planned_step": 5,
+        "datetime": "2022-04-23T00:00:00Z",
+        "asset": 367.71999999999997,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.76,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 211,
+    "fields": {
+        "planned_step": 5,
+        "datetime": "2022-04-24T00:00:00Z",
+        "asset": 367.71999999999997,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.76,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 212,
+    "fields": {
+        "planned_step": 5,
+        "datetime": "2022-04-25T00:00:00Z",
+        "asset": 367.71999999999997,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.76,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 213,
+    "fields": {
+        "planned_step": 5,
+        "datetime": "2022-04-26T00:00:00Z",
+        "asset": 183.85999999999999,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.38,
+        "external_energy_supply": 0.17499999999999996
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 214,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-04-26T12:00:00Z",
+        "asset": 128.385,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 1.8066666666666669,
+        "external_energy_supply": 0.17499999999999996
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 215,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-04-27T00:00:00Z",
+        "asset": 256.77,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 3.6133333333333337,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 216,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-04-28T00:00:00Z",
+        "asset": 256.77,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 3.6133333333333337,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 217,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-04-29T00:00:00Z",
+        "asset": 256.77,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 3.6133333333333337,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 218,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-04-30T00:00:00Z",
+        "asset": 256.77,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 3.6133333333333337,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 219,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-05-01T00:00:00Z",
+        "asset": 256.77,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 3.6133333333333337,
+        "external_energy_supply": 0.3499999999999999
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 220,
+    "fields": {
+        "planned_step": 6,
+        "datetime": "2022-05-02T00:00:00Z",
+        "asset": 128.385,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 1.8066666666666669,
+        "external_energy_supply": 0.17499999999999996
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 262,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-03-30T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 263,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-03-31T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 264,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-01T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 265,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-02T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 266,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-03T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 267,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-04T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 268,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-05T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 269,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-06T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 270,
+    "fields": {
+        "planned_step": 13,
+        "datetime": "2022-04-07T00:00:00Z",
+        "asset": 134.725,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 271,
+    "fields": {
+        "planned_step": 14,
+        "datetime": "2022-04-07T12:00:00Z",
+        "asset": 134.72499999999997,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 272,
+    "fields": {
+        "planned_step": 14,
+        "datetime": "2022-04-08T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 273,
+    "fields": {
+        "planned_step": 14,
+        "datetime": "2022-04-09T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 274,
+    "fields": {
+        "planned_step": 14,
+        "datetime": "2022-04-10T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 275,
+    "fields": {
+        "planned_step": 14,
+        "datetime": "2022-04-11T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 276,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-12T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 277,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-13T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 278,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-14T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 279,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-15T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 280,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-16T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 281,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-17T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 282,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-18T00:00:00Z",
+        "asset": 307.48999999999995,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 283,
+    "fields": {
+        "planned_step": 15,
+        "datetime": "2022-04-19T00:00:00Z",
+        "asset": 153.74499999999998,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 284,
+    "fields": {
+        "planned_step": 16,
+        "datetime": "2022-04-19T12:00:00Z",
+        "asset": 158.5,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.17500000000000002
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 285,
+    "fields": {
+        "planned_step": 16,
+        "datetime": "2022-04-20T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35000000000000003
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 286,
+    "fields": {
+        "planned_step": 16,
+        "datetime": "2022-04-21T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35000000000000003
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 287,
+    "fields": {
+        "planned_step": 16,
+        "datetime": "2022-04-22T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35000000000000003
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 288,
+    "fields": {
+        "planned_step": 16,
+        "datetime": "2022-04-23T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35000000000000003
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 289,
+    "fields": {
+        "planned_step": 16,
+        "datetime": "2022-04-24T00:00:00Z",
+        "asset": 158.5,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.17500000000000002
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 290,
+    "fields": {
+        "planned_step": 17,
+        "datetime": "2022-04-24T12:00:00Z",
+        "asset": 228.23999999999998,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 291,
+    "fields": {
+        "planned_step": 17,
+        "datetime": "2022-04-25T00:00:00Z",
+        "asset": 456.47999999999996,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 292,
+    "fields": {
+        "planned_step": 17,
+        "datetime": "2022-04-26T00:00:00Z",
+        "asset": 456.47999999999996,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 293,
+    "fields": {
+        "planned_step": 17,
+        "datetime": "2022-04-27T00:00:00Z",
+        "asset": 456.47999999999996,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 294,
+    "fields": {
+        "planned_step": 17,
+        "datetime": "2022-04-28T00:00:00Z",
+        "asset": 456.47999999999996,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 295,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-04-29T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 296,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-04-30T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 297,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-05-01T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 298,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-05-02T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 299,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-05-03T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 300,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-05-04T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 301,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-05-05T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 302,
+    "fields": {
+        "planned_step": 18,
+        "datetime": "2022-05-06T00:00:00Z",
+        "asset": 207.635,
+        "boilers": 0.0,
+        "vessels": 0.0,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 303,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-03-30T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 304,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-03-31T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 305,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-01T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 306,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-02T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 307,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-03T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 308,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-04T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 309,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-05T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 310,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-06T00:00:00Z",
+        "asset": 269.45,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 311,
+    "fields": {
+        "planned_step": 7,
+        "datetime": "2022-04-07T00:00:00Z",
+        "asset": 134.725,
+        "boilers": 20.604999999999997,
+        "vessels": 0.62034,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 312,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-07T12:00:00Z",
+        "asset": 134.72499999999997,
+        "boilers": 20.604999999999997,
+        "vessels": 0.62034,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 313,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-08T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 314,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-09T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 315,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-10T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 316,
+    "fields": {
+        "planned_step": 8,
+        "datetime": "2022-04-11T00:00:00Z",
+        "asset": 269.44999999999993,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 317,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-12T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 318,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-13T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 319,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-14T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 320,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-15T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 321,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-16T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 322,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-17T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 323,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-18T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 1.528,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 324,
+    "fields": {
+        "planned_step": 9,
+        "datetime": "2022-04-19T00:00:00Z",
+        "asset": 158.5,
+        "boilers": 20.605,
+        "vessels": 0.6203400000000001,
+        "helicopters": 0.0,
+        "materials": 0.764,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 325,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-19T12:00:00Z",
+        "asset": 158.5,
+        "boilers": 20.605,
+        "vessels": 0.6203400000000001,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 326,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-20T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 327,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-21T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 328,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-22T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 329,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-23T00:00:00Z",
+        "asset": 317.0,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 330,
+    "fields": {
+        "planned_step": 10,
+        "datetime": "2022-04-24T00:00:00Z",
+        "asset": 158.5,
+        "boilers": 20.605,
+        "vessels": 0.6203400000000001,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 331,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-24T12:00:00Z",
+        "asset": 232.99499999999998,
+        "boilers": 20.604999999999997,
+        "vessels": 0.62034,
+        "helicopters": 0.0,
+        "materials": 0.5344444444444445,
+        "external_energy_supply": 0.175
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 332,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-25T00:00:00Z",
+        "asset": 465.98999999999995,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 1.068888888888889,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 333,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-26T00:00:00Z",
+        "asset": 465.98999999999995,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 1.068888888888889,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 334,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-27T00:00:00Z",
+        "asset": 465.98999999999995,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 1.068888888888889,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 335,
+    "fields": {
+        "planned_step": 11,
+        "datetime": "2022-04-28T00:00:00Z",
+        "asset": 465.98999999999995,
+        "boilers": 41.209999999999994,
+        "vessels": 1.24068,
+        "helicopters": 0.0,
+        "materials": 1.068888888888889,
+        "external_energy_supply": 0.35
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 336,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-29T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 337,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-04-30T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 338,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-01T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 339,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-02T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 340,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-03T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 341,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-04T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 342,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-05T00:00:00Z",
+        "asset": 415.27,
+        "boilers": 41.21,
+        "vessels": 1.2406800000000002,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+},
+{
+    "model": "emissions.baselineco2",
+    "pk": 343,
+    "fields": {
+        "planned_step": 12,
+        "datetime": "2022-05-06T00:00:00Z",
+        "asset": 207.635,
+        "boilers": 20.605,
+        "vessels": 0.6203400000000001,
+        "helicopters": 0.0,
+        "materials": 0.0,
+        "external_energy_supply": 0.0
+    }
+}
+]
